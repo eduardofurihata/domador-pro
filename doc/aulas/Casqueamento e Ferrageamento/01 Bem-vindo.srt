@@ -1,188 +1,93 @@
-1
-00:00:00,000 --> 00:00:03,820
 Sejam bem-vindos ao curso de noções de casqueamento e ferrajamento.
 
-2
-00:00:04,139 --> 00:00:06,120
 Muito obrigado por ter tomado essa decisão.
 
-3
-00:00:06,379 --> 00:00:11,300
 Nós vamos falar sobre a importância, primeiro, do ferrador no rancho
 
-4
-00:00:11,300 --> 00:00:15,599
 e, segundo, a importância do ferrador para todo o trabalho de uma tropa
 
-5
-00:00:15,599 --> 00:00:18,620
 que é extremamente importante, desde um cavalo de passeio
 
-6
-00:00:18,620 --> 00:00:22,719
 até mesmo um cavalo de competição, um cavalo de alta performance.
 
-7
-00:00:23,199 --> 00:00:25,859
 Então, hoje a gente vai começar pela parte teórica,
 
-8
-00:00:25,859 --> 00:00:33,000
 que seria entender como funciona a dinâmica, a anatomia, o estojo córneo do casco,
 
-9
-00:00:33,579 --> 00:00:38,980
 entender quais são as partes, poder desenhar um casco pela sua forma,
 
-10
-00:00:39,579 --> 00:00:45,579
 onde começa, onde termina, sobre a pluma, o equilíbrio, toda a dinâmica do casco
 
-11
-00:00:45,579 --> 00:00:50,000
 e, depois, uma breve parte de noções de ferrageamento.
 
-12
-00:00:50,500 --> 00:00:53,140
 Hoje a gente conta com o nosso ferrador aqui do rancho,
 
-13
-00:00:53,140 --> 00:00:55,840
 do Centro de Treinamento American Farm, o Elton,
 
-14
-00:00:55,859 --> 00:00:58,420
 que tem mais de 12 anos de experiência.
 
-15
-00:00:59,380 --> 00:01:04,180
 Ele também que vem fazendo muitos cursos, vai fazer curso para o resto da vida
 
-16
-00:01:04,180 --> 00:01:08,760
 para tentar se especializar, principalmente em ferrageamento ortopédico,
 
-17
-00:01:08,879 --> 00:01:11,539
 que é uma área hoje que é muito procurada.
 
-18
-00:01:11,799 --> 00:01:14,799
 Aqui a gente tem animais de todos os segmentos,
 
-19
-00:01:14,900 --> 00:01:20,680
 desde animais de andamento, de corrida, animais de tambor, de laço.
 
-20
-00:01:20,799 --> 00:01:24,920
 Então, muda muitas noções básicas do equilíbrio, do ferrageamento,
 
-21
-00:01:24,920 --> 00:01:27,879
 cavalos com problema, aparece muito aqui.
 
-22
-00:01:28,439 --> 00:01:33,260
 Então, hoje a gente vai entregar para vocês o que seriam as noções básicas
 
-23
-00:01:33,260 --> 00:01:35,920
 de um bom casqueamento, de um bom ferrageamento,
 
-24
-00:01:36,540 --> 00:01:38,620
 o que um cavalo precisa, o que outro cavalo precisa.
 
-25
-00:01:39,040 --> 00:01:43,260
 E, claro, primeiro de tudo, ter noções de como olhar um casco do animal
 
-26
-00:01:43,260 --> 00:01:47,240
 e saber o que tem por dentro, como é que funciona, quais são as precauções.
 
-27
-00:01:48,060 --> 00:01:53,040
 E, claro, eu peço a vocês que vão por partes, por partes,
 
-28
-00:01:53,040 --> 00:01:57,400
 tentando entender cada conteúdo, não querer pular etapa,
 
-29
-00:01:57,520 --> 00:01:59,420
 para vocês olharem para um cavalo e falarem
 
-30
-00:01:59,420 --> 00:02:02,580
 poxa, meu cavalo está mal ferrado, meu cavalo está mal equilibrado,
 
-31
-00:02:02,640 --> 00:02:05,340
 meu cavalo precisa disso, meu cavalo precisa daquilo.
 
-32
-00:02:05,440 --> 00:02:08,480
 Então, a gente vai dar uma prévia, uma visão geral,
 
-33
-00:02:08,599 --> 00:02:11,020
 o que seria o básico para vocês entenderem
 
-34
-00:02:11,020 --> 00:02:16,520
 a tal importância de um bom ferrador no seu rancho
 
-35
-00:02:16,520 --> 00:02:22,379
 e o tanto de conforto e qualidade de vida que pode trazer um bom ferrageamento
 
-36
-00:02:22,379 --> 00:02:22,400
 para o seu casco.
 
-37
-00:02:22,400 --> 00:02:22,620
 Então, a gente vai dar uma prévia, uma visão geral,
 
-38
-00:02:22,620 --> 00:02:23,020
 para vocês entenderem o que seria o básico para vocês entenderem
 
-39
-00:02:23,020 --> 00:02:28,300
 o mais importante, vocês vão aprender a como casquear bem um cavalo,
 
-40
-00:02:28,439 --> 00:02:32,300
 quais são os pontos ideais para você equilibrar bem um cavalo,
 
-41
-00:02:32,879 --> 00:02:37,460
 o que não pode passar despercebido, o que é de extrema importância
 
-42
-00:02:37,460 --> 00:02:40,939
 e uma noção de ferrageamento, que eu acho que depois que você tem
 
-43
-00:02:40,939 --> 00:02:45,360
 um casco equilibrado, bem balanceado, um casco bem casqueado,
 
-44
-00:02:45,439 --> 00:02:50,860
 eu acho que pregar a ferradura, colocar a ferradura é a cereja do bolo.
 
-45
-00:02:50,860 --> 00:02:53,000
 Acho que o essencial é vocês terem,
 
-46
-00:02:53,000 --> 00:02:57,180
 essas noções básicas de uma boa anatomia de casco, um bom equilíbrio
 
-47
-00:02:57,180 --> 00:03:00,520
 e um bom conforto para o seu cavalo.
-

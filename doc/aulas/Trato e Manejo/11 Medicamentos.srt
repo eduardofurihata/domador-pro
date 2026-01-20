@@ -1,1156 +1,577 @@
-1
-00:00:00,000 --> 00:00:06,140
 Então pessoal, e na aula de hoje nós vamos falar sobre medicamentos, uma base sobre medicamentos.
 
-2
-00:00:06,259 --> 00:00:12,679
 Claro que eu vou estar falando para vocês o que vocês precisam ter para autossocorro do animal,
 
-3
-00:00:12,859 --> 00:00:14,820
 para evitar um óbito dentro do rancho.
 
-4
-00:00:15,080 --> 00:00:20,660
 Mas tudo que eu falar aqui, eu precisava que vocês estudassem mais a fundo,
 
-5
-00:00:21,100 --> 00:00:26,780
 desde que seja uma cólica, o porquê de uma cólica, qual que é a diferença de cólica,
 
-6
-00:00:26,780 --> 00:00:31,880
 às vezes uma torção de intestino, inflamação de intestino, uma compactação cólica renal,
 
-7
-00:00:31,960 --> 00:00:37,420
 às vezes eu aprendi a passar uma sonda no cavalo por muitos anos de experiência.
 
-8
-00:00:37,859 --> 00:00:41,160
 Então não tem como eu dar uma aula aqui para vocês como passar uma sonda,
 
-9
-00:00:41,340 --> 00:00:45,799
 ou fazer um vídeo fazendo, acho que isso aí é muitos anos de experiência.
 
-10
-00:00:46,280 --> 00:00:50,659
 E claro, sempre respeitando o veterinário, eu não sou formado em veterinária,
 
-11
-00:00:51,579 --> 00:00:56,760
 veterinária atende aqui em casos mais extremos, quando é caso de hospital, por exemplo,
 
-12
-00:00:56,780 --> 00:01:02,760
 até sonda, lavagem, essas coisas, a gente que faz, porque eu aprendi na vida,
 
-13
-00:01:03,079 --> 00:01:08,659
 e acho que qualquer um de vocês que se apaixonaram por essa profissão vão aprender de tanto ver no dia a dia,
 
-14
-00:01:08,719 --> 00:01:12,359
 mas eu espero que vocês estudem mais sobre cólica.
 
-15
-00:01:12,579 --> 00:01:15,980
 Eu estudo todo dia o cavalo, todo dia eu chego na minha casa, eu tomo um banho,
 
-16
-00:01:16,439 --> 00:01:19,260
 ligo o jornal e vou ver vídeos sobre cavalo.
 
-17
-00:01:19,599 --> 00:01:23,359
 Ah, mas puta, eu sei bastante sobre cólica, sobre laminite, sobre tétano,
 
-18
-00:01:23,359 --> 00:01:26,599
 mas toda hora tem um vídeo novo, tem um tratamento novo,
 
-19
-00:01:26,780 --> 00:01:30,680
 toda hora sai coisa nova, como muita hora também você vê vídeos que não tem nada a ver,
 
-20
-00:01:30,760 --> 00:01:32,780
 você fala, meu Deus, acho que o cara viajou nisso daí.
 
-21
-00:01:33,140 --> 00:01:35,540
 Mas é bom você saber o que é certo e o que é errado.
 
-22
-00:01:36,000 --> 00:01:40,219
 Então se eu falar para vocês aqui de tétano, eu estou dando uma visão,
 
-23
-00:01:40,379 --> 00:01:42,960
 mas eu quero que vocês estudem sobre laminite.
 
-24
-00:01:43,120 --> 00:01:46,480
 Cara, eu já estudei tanto sobre laminite, fiz tantos cursos,
 
-25
-00:01:46,840 --> 00:01:50,299
 e ainda até hoje aprendo sobre laminite, como a gente evitar laminite,
 
-26
-00:01:50,299 --> 00:01:55,040
 e tenho casos de laminite no meu rancho,
 
-27
-00:01:55,040 --> 00:01:57,760
 não que casos que eu tenha dentro do meu rancho,
 
-28
-00:01:57,820 --> 00:02:01,840
 mas cavalos que venham tratar laminite aqui, como a abronemose,
 
-29
-00:02:02,020 --> 00:02:07,560
 a gente hoje é uma referência aqui na região de tratamento de abronemose,
 
-30
-00:02:07,860 --> 00:02:12,659
 que muitos ranchos não querem tratar, muitos veterinários não querem tratar,
 
-31
-00:02:12,819 --> 00:02:16,120
 e a gente hoje é uma referência aqui de tratar abronemose.
 
-32
-00:02:16,659 --> 00:02:20,140
 Abronemose seria nada mais que aquela ferida de verão,
 
-33
-00:02:20,140 --> 00:02:24,140
 que não cura, que ela é ulcerativa, que ela é feia, ela só cresce,
 
-34
-00:02:24,139 --> 00:02:28,339
 ela passa de um membro para outro, ela passa para outros animais,
 
-35
-00:02:28,819 --> 00:02:33,299
 então eu acho que a gente tem que, para você ser um bom administrador de aras,
 
-36
-00:02:33,399 --> 00:02:38,459
 você tem que ser um pouco de tudo, ou muito de tudo, que seria melhor,
 
-37
-00:02:38,719 --> 00:02:42,099
 você ser um bom tratador, ser um bom cara de manejo,
 
-38
-00:02:42,219 --> 00:02:49,579
 ter aquele olhar clínico para cavalo, ser um pouco veterinário, um pouco de tudo,
 
-39
-00:02:50,439 --> 00:02:53,639
 então eu acho que vocês têm que ir a fundo nessa parte,
 
-40
-00:02:54,139 --> 00:02:57,839
 de doenças, de tratamentos, de prevenções de doenças,
 
-41
-00:02:58,279 --> 00:03:00,899
 então eu acho que vocês não vão perder tempo nisso,
 
-42
-00:03:01,299 --> 00:03:04,839
 e é o que vai fazer você ganhar mais hoje dentro de um rancho,
 
-43
-00:03:05,099 --> 00:03:08,179
 porque hoje nossos veterinários chegam aqui, muitos veterinários atendem aqui,
 
-44
-00:03:08,319 --> 00:03:12,179
 tem veterinário que parte de ortopedia, de ferrajamento,
 
-45
-00:03:12,299 --> 00:03:17,279
 veterinário só para musculatura, então a gente conversa muito com veterinário,
 
-46
-00:03:17,279 --> 00:03:21,719
 e é uma parte boa para depois você saber atender um veterinário,
 
-47
-00:03:21,859 --> 00:03:24,119
 não ficar viajando nas coisas que ele está falando,
 
-48
-00:03:24,199 --> 00:03:28,019
 até para você ajudar a chegar em uma conclusão, em um diagnóstico,
 
-49
-00:03:28,319 --> 00:03:32,859
 porque o veterinário tem um diploma, a gente tem que respeitar muito,
 
-50
-00:03:33,199 --> 00:03:38,059
 mas a gente também tem 30 anos no cavalo, e eles respeitam muito a gente também,
 
-51
-00:03:38,279 --> 00:03:41,919
 porque a gente estuda o cavalo todos os dias, e é o que eu aconselho para vocês também,
 
-52
-00:03:42,219 --> 00:03:45,079
 então vamos lá, medicamentos pessoal,
 
-53
-00:03:46,079 --> 00:03:50,179
 todo administrador de raras de rancho tem que saber um pouco de medicamento,
 
-54
-00:03:50,419 --> 00:03:54,079
 porque você salva a vida de um cavalo por causa de um pronto-solução,
 
-55
-00:03:54,199 --> 00:03:55,139
 e o que é um pronto-socorro?
 
-56
-00:03:55,359 --> 00:03:56,359
 O que seria um pronto-socorro?
 
-57
-00:03:56,419 --> 00:04:00,599
 Aquele socorro imediato, porque às vezes o seu veterinário que atende no seu rancho,
 
-58
-00:04:00,839 --> 00:04:03,139
 ele está atendendo uma cólica, está atendendo uma coisa,
 
-59
-00:04:03,219 --> 00:04:06,359
 ou às vezes está viajando, não pode te atender,
 
-60
-00:04:06,739 --> 00:04:08,599
 ou às vezes vai demorar duas horas para chegar,
 
-61
-00:04:09,099 --> 00:04:14,339
 e às vezes numa cólica, em qualquer caso extremo, numa picada de bicho,
 
-62
-00:04:14,339 --> 00:04:17,539
 você pode estar salvando o animal.
 
-63
-00:04:18,079 --> 00:04:21,979
 Então o que mais acontece, os prontos-socorros num rancho?
 
-64
-00:04:22,259 --> 00:04:23,219
 O que mais acontece?
 
-65
-00:04:23,579 --> 00:04:24,079
 Desconforto.
 
-66
-00:04:24,079 --> 00:04:26,560
 Desconforto de cólica.
 
-67
-00:04:27,939 --> 00:04:33,240
 Você não é obrigado a ter o diagnóstico de cólica e resolver um problema de cólica,
 
-68
-00:04:33,539 --> 00:04:39,539
 mas a experiência do ano, do dia a dia, você pode dar os primeiros socorros para um cavalo de cólica.
 
-69
-00:04:39,539 --> 00:04:40,120
 O que seria?
 
-70
-00:04:40,399 --> 00:04:45,779
 Você saber pegar uma veia, você saber o que é uma injeção intramuscular,
 
-71
-00:04:46,219 --> 00:04:50,719
 que seria no músculo, uma injeção subcutânea, que é debaixo do couro,
 
-72
-00:04:51,120 --> 00:04:54,060
 uma injeção intravenosa, que é na veia,
 
-73
-00:04:54,079 --> 00:04:58,419
 e uma injeção intraderme, que seria dentro da pele,
 
-74
-00:04:58,539 --> 00:05:03,180
 que a gente pouco usa, mas a gente tem que ter essas noções básicas.
 
-75
-00:05:03,579 --> 00:05:08,079
 Saber desinfetar bem o animal para fazer uma injeção,
 
-76
-00:05:09,039 --> 00:05:12,539
 a gente não pode passar por cima do veterinário,
 
-77
-00:05:12,879 --> 00:05:15,079
 alguns procedimentos são só pelo veterinário,
 
-78
-00:05:16,339 --> 00:05:19,219
 mas a gente pode dar um pronto-socorro para o animal,
 
-79
-00:05:19,339 --> 00:05:21,279
 porque você mexe com o bicho, você tem que saber.
 
-80
-00:05:21,719 --> 00:05:22,939
 Então o que eu aconselho?
 
-81
-00:05:22,939 --> 00:05:23,199
 Desconforto.
 
-82
-00:05:23,199 --> 00:05:23,919
 Desconforto.
 
-83
-00:05:23,920 --> 00:05:25,720
 Desconforto de cólica, você saber pegar uma veia,
 
-84
-00:05:26,120 --> 00:05:30,379
 dar um antitérmico para o cavalo, para cortar a febre,
 
-85
-00:05:30,879 --> 00:05:34,480
 um antitérmico, um anti-inflamatório,
 
-86
-00:05:34,800 --> 00:05:37,600
 que é a primeira coisa que a cólica dá, uma inflamação,
 
-87
-00:05:38,140 --> 00:05:40,980
 um remédio para a dor, para tirar a dor do cavalo.
 
-88
-00:05:41,439 --> 00:05:43,100
 Então quais remédios a gente tem?
 
-89
-00:05:43,400 --> 00:05:46,100
 A gente tem remédios à base de flunixina,
 
-90
-00:05:46,259 --> 00:05:50,000
 que pode ser o flunixin, flumax, banamine,
 
-91
-00:05:50,000 --> 00:05:52,740
 são remédios assim, para a dor,
 
-92
-00:05:52,740 --> 00:05:55,100
 que funciona muito bem na cólica.
 
-93
-00:05:55,960 --> 00:05:58,220
 Então às vezes o seu cavalo está rolando de cólica,
 
-94
-00:05:58,319 --> 00:05:59,939
 você vai lá até o veterinário chegar,
 
-95
-00:06:00,300 --> 00:06:01,720
 porque qual é o perigo da cólica?
 
-96
-00:06:01,800 --> 00:06:03,900
 O cavalo ficar deitando, levantando, rolando,
 
-97
-00:06:04,319 --> 00:06:06,639
 e dá uma torção de intestino.
 
-98
-00:06:06,960 --> 00:06:09,800
 Então o que você pode fazer enquanto o seu veterinário não chega,
 
-99
-00:06:09,879 --> 00:06:12,199
 para dar aquele conforto para o seu animal?
 
-100
-00:06:12,579 --> 00:06:15,560
 Fazer umas 10 ml de flumax,
 
-101
-00:06:15,900 --> 00:06:18,560
 eu não vou falar o nome dos remédios,
 
-102
-00:06:18,639 --> 00:06:19,980
 eu vou falar a base, flunixin,
 
-103
-00:06:19,980 --> 00:06:21,920
 que seria o banamine, o flumax,
 
-104
-00:06:22,740 --> 00:06:24,740
 vários outros tipos de remédio.
 
-105
-00:06:24,840 --> 00:06:26,840
 Você já dá um conforto para o seu animal
 
-106
-00:06:26,939 --> 00:06:28,939
 até o veterinário chegar.
 
-107
-00:06:29,040 --> 00:06:31,040
 Num caso mais extremo,
 
-108
-00:06:31,139 --> 00:06:33,139
 aconselho vocês a pedir para o veterinário
 
-109
-00:06:33,240 --> 00:06:35,240
 fazer um curso de passar uma sonda no animal,
 
-110
-00:06:35,340 --> 00:06:38,340
 porque você pode salvar a vida do animal,
 
-111
-00:06:38,439 --> 00:06:40,439
 e que estar com o estômago tão dilatado
 
-112
-00:06:40,540 --> 00:06:42,540
 pode dar um problema muito sério,
 
-113
-00:06:42,639 --> 00:06:44,639
 às vezes você passa uma sonda no animal,
 
-114
-00:06:44,740 --> 00:06:47,740
 você pode estar salvando a vida do seu animal.
 
-115
-00:06:47,840 --> 00:06:49,840
 Você ter essa parceria com o seu veterinário,
 
-116
-00:06:49,939 --> 00:06:51,960
 saber até onde você pode ir, até onde você não pode,
 
-117
-00:06:52,060 --> 00:06:52,540
 que é o que você precisa fazer.
 
-118
-00:06:52,540 --> 00:06:54,540
 O que eu posso fazer para ajudar meu animal?
 
-119
-00:06:54,640 --> 00:06:56,640
 Porque você é um administrador diário.
 
-120
-00:06:56,740 --> 00:06:58,740
 A gente tem os veterinários responsáveis,
 
-121
-00:06:58,840 --> 00:07:00,840
 mas você sabe como é a vida de um veterinário,
 
-122
-00:07:00,939 --> 00:07:02,939
 sempre está atendendo,
 
-123
-00:07:03,040 --> 00:07:05,040
 às vezes por duas ou três horas
 
-124
-00:07:05,140 --> 00:07:07,140
 que ele não pode chegar no seu rancho,
 
-125
-00:07:07,240 --> 00:07:09,240
 um cavalo seu vem a óbito.
 
-126
-00:07:09,340 --> 00:07:11,340
 Outra coisa, cólica, né?
 
-127
-00:07:11,439 --> 00:07:13,439
 Agora vamos para intoxicação.
 
-128
-00:07:13,540 --> 00:07:15,540
 Meu cavalo está intoxicado,
 
-129
-00:07:15,640 --> 00:07:17,640
 comeu uma erva ruim,
 
-130
-00:07:17,740 --> 00:07:19,740
 por algum motivo comeu um veneno,
 
-131
-00:07:19,840 --> 00:07:21,740
 alguma coisa,
 
-132
-00:07:21,740 --> 00:07:23,740
 está passando muito mal, tudo.
 
-133
-00:07:23,840 --> 00:07:27,740
 Você tem que ter a obrigação de saber fazer um mercepton na veia,
 
-134
-00:07:27,840 --> 00:07:29,740
 uma injeção intravenosa,
 
-135
-00:07:29,840 --> 00:07:32,740
 desceu um soro ali com 50 ml de mercepton,
 
-136
-00:07:32,840 --> 00:07:34,740
 20, depende do caso.
 
-137
-00:07:34,840 --> 00:07:36,740
 Eu não sou veterinário,
 
-138
-00:07:36,840 --> 00:07:37,740
 para dar uma aula específica,
 
-139
-00:07:37,840 --> 00:07:39,740
 eu estou falando o que acontece no meu rancho, tá pessoal?
 
-140
-00:07:39,840 --> 00:07:42,740
 E assim, esse pronto atendimento é muito importante, sabe?
 
-141
-00:07:42,840 --> 00:07:44,740
 Às vezes o cavalo veio no piquete,
 
-142
-00:07:44,840 --> 00:07:47,740
 comeu alguma coisa errada, está intoxicado,
 
-143
-00:07:47,840 --> 00:07:50,740
 você saber fazer um mercepton, correr ali,
 
-144
-00:07:50,740 --> 00:07:53,740
 para salvar a vida de um animal,
 
-145
-00:07:53,840 --> 00:07:54,740
 é muito importante.
 
-146
-00:07:54,840 --> 00:07:57,740
 Às vezes eu uso mercepton junto com flumax,
 
-147
-00:07:57,840 --> 00:07:59,740
 em um caso de cólica,
 
-148
-00:07:59,840 --> 00:08:01,740
 ajuda bastante.
 
-149
-00:08:01,840 --> 00:08:04,740
 Vários casos que não dá para a gente entrar a fundo.
 
-150
-00:08:04,840 --> 00:08:07,740
 O porquê disso é que a gente vai demorar aqui dois dias,
 
-151
-00:08:07,840 --> 00:08:12,740
 para fechar um estudo aqui.
 
-152
-00:08:12,840 --> 00:08:15,740
 Mas assim, as coisas que mais acontecem no ar,
 
-153
-00:08:15,840 --> 00:08:18,740
 pessoal, cólica, intoxicação, outra coisa,
 
-154
-00:08:18,740 --> 00:08:23,740
 picada de bicho peçonhento,
 
-155
-00:08:23,840 --> 00:08:26,740
 às vezes você entrar com corticóide no músculo,
 
-156
-00:08:26,840 --> 00:08:28,740
 igual esses dias mesmo,
 
-157
-00:08:28,840 --> 00:08:30,740
 não foi nem nesse rancho,
 
-158
-00:08:30,840 --> 00:08:32,740
 era no outro rancho que a gente estava,
 
-159
-00:08:32,840 --> 00:08:35,740
 uma aranha mordeu o focinho do cavalo,
 
-160
-00:08:35,840 --> 00:08:37,740
 na hora encheu a cara, encheu a garganta,
 
-161
-00:08:37,840 --> 00:08:40,740
 você entra ali com corticóide,
 
-162
-00:08:40,840 --> 00:08:43,740
 um anti-inflamatório, pode ser o flumax e tal,
 
-163
-00:08:43,840 --> 00:08:47,840
 e até mesmo o mercepton nunca é demais, né?
 
-164
-00:08:47,940 --> 00:08:48,639
 Não é?
 
-165
-00:08:48,840 --> 00:08:50,840
 Você saber dar esse primeiro socorro, né?
 
-166
-00:08:50,940 --> 00:08:52,840
 Socorro, primeiro socorro, né?
 
-167
-00:08:52,940 --> 00:08:53,840
 Para o cavalo.
 
-168
-00:08:53,940 --> 00:08:55,840
 Outra coisa, tétano.
 
-169
-00:08:55,940 --> 00:09:00,840
 Pô, o tétano, muitas pessoas pensam que é por causa do ferro.
 
-170
-00:09:00,940 --> 00:09:03,840
 Ah, o cavalo foi no prego, num ferro,
 
-171
-00:09:03,940 --> 00:09:05,840
 e não é nada disso, pessoal.
 
-172
-00:09:05,940 --> 00:09:07,840
 O tétano é uma bactéria que está no solo.
 
-173
-00:09:07,940 --> 00:09:09,840
 Se o cavalo tiver uma broca,
 
-174
-00:09:09,940 --> 00:09:13,840
 qualquer corte que ele fizer, com ponta de pau,
 
-175
-00:09:13,940 --> 00:09:16,840
 qualquer coisa, eu já dou anti-tetânica na hora.
 
-176
-00:09:16,940 --> 00:09:17,840
 Na hora.
 
-177
-00:09:17,940 --> 00:09:18,639
 Por quê?
 
-178
-00:09:18,840 --> 00:09:22,840
 O tétano é uma das doenças mais tristes que o cavalo pode ter.
 
-179
-00:09:22,940 --> 00:09:25,840
 O tétano, a laminite e a cólica.
 
-180
-00:09:25,940 --> 00:09:30,840
 É uma das coisas mais tristes que pode acometer num cavalo.
 
-181
-00:09:30,940 --> 00:09:34,840
 É muito difícil de curar, né?
 
-182
-00:09:34,940 --> 00:09:37,840
 Tipo, meu cavalo machucou, já faço anti-tetânica na hora,
 
-183
-00:09:37,940 --> 00:09:38,840
 qualquer cortezinho.
 
-184
-00:09:38,940 --> 00:09:39,840
 Por quê?
 
-185
-00:09:39,940 --> 00:09:41,840
 O que a bactéria do tétano precisa?
 
-186
-00:09:41,940 --> 00:09:46,840
 Somente de um ferimento anaeróbico, que não tenha oxigênio, entendeu?
 
-187
-00:09:46,940 --> 00:09:47,840
 Para ela se proliferar.
 
-188
-00:09:47,840 --> 00:09:49,840
 E depois que o cavalo está com o tétano,
 
-189
-00:09:49,940 --> 00:09:54,840
 o tratamento é muito doído, muito intenso e judia muito do cavalo.
 
-190
-00:09:54,940 --> 00:09:58,840
 O cavalo fica com a cauda dura, as orelhas de tesoura duras,
 
-191
-00:09:58,940 --> 00:10:02,840
 ele fica com hipersensibilidade de barulho, de visão, né?
 
-192
-00:10:02,940 --> 00:10:05,840
 E a gente tem que colocar ele numa cocheira escura,
 
-193
-00:10:05,940 --> 00:10:07,840
 colocar algodão no ouvido, né?
 
-194
-00:10:07,940 --> 00:10:12,840
 Para ele não ter hipersensibilidade visual nem auditiva.
 
-195
-00:10:12,940 --> 00:10:16,940
 É muito dolorido, o cavalo fica com espasmo muscular, tem muita dor.
 
-196
-00:10:16,940 --> 00:10:20,940
 A gente tem que entrar com soro fisiológico, anti-inflamatório pesado.
 
-197
-00:10:21,040 --> 00:10:23,940
 Então, o que a gente não quer para o nosso cavalo?
 
-198
-00:10:24,040 --> 00:10:26,940
 Os primeiros socorros que a gente precisa saber.
 
-199
-00:10:27,040 --> 00:10:30,940
 Tétano machucou, ter uma anti-tetânica na mão, saber fazer uma injeção intramuscular.
 
-200
-00:10:31,040 --> 00:10:33,940
 Picada de bicho peçonhento, né?
 
-201
-00:10:34,040 --> 00:10:37,940
 Se for o caso de uma cobra ter um soro antiofídico, né?
 
-202
-00:10:38,040 --> 00:10:38,940
 Sempre em mãos, né?
 
-203
-00:10:39,040 --> 00:10:43,940
 A cobra pode entrar, a gente já chegou a pegar cobras dentro da cocheira, né?
 
-204
-00:10:44,040 --> 00:10:44,940
 Cobras de pequeno porte.
 
-205
-00:10:44,940 --> 00:10:49,940
 Mas já meu menino foi limpar a cocheira e pegou cobra dentro da cocheira.
 
-206
-00:10:50,040 --> 00:10:55,940
 Então, sempre ter um soro antiofídico, saber ter esse diagnóstico do animal, né?
 
-207
-00:10:56,040 --> 00:11:02,940
 Saber entender a diferença entre uma intoxicação, um animal peçonhento, um corte ou uma cólica, né?
 
-208
-00:11:03,040 --> 00:11:06,940
 Isso só os dias de administrador de aras você vai ter.
 
-209
-00:11:07,040 --> 00:11:13,940
 Mas assim, se você tiver esses conhecimentos, é o que vai fazer você ganhar mais dentro de um aras.
 
-210
-00:11:14,040 --> 00:11:14,840
 Por quê?
 
-211
-00:11:15,040 --> 00:11:19,940
 O administrador de aras nada mais é do que uma pessoa que lhe paga para resolver o problema.
 
-212
-00:11:20,040 --> 00:11:23,940
 Imagina você ligar duas horas da manhã para o dono do aras e falar que um cavalo está com cólica,
 
-213
-00:11:24,040 --> 00:11:27,940
 ou que um bicho mordeu, ou que o cavalo está com sintoma de intoxicação.
 
-214
-00:11:28,040 --> 00:11:32,940
 Ele quer que você liga no outro dia para ele e fale assim, ó, o cavalo teve um desconforto de cólica,
 
-215
-00:11:33,040 --> 00:11:34,940
 nós fizemos tal procedimento, tal, tal.
 
-216
-00:11:35,040 --> 00:11:39,940
 O veterinário chegou oito horas da manhã e o animal está ok.
 
-217
-00:11:40,040 --> 00:11:42,940
 Isso que um dono de aras ou um cliente, né?
 
-218
-00:11:43,040 --> 00:11:44,040
 Igual a gente tem aqui cocheira, né?
 
-219
-00:11:44,039 --> 00:11:46,039
 Igual a gente tem aqui cocheiras de aluguel.
 
-220
-00:11:46,139 --> 00:11:47,039
 O que que acontece?
 
-221
-00:11:47,139 --> 00:11:48,039
 Às vezes o cavalo se machuca.
 
-222
-00:11:48,139 --> 00:11:53,039
 Quando ele se machucou, eu já vou lá, já dou o pronto atendimento, faço o curativo, faço uma antitetânica,
 
-223
-00:11:53,139 --> 00:11:55,039
 faço o remédio para dor, tudo.
 
-224
-00:11:55,139 --> 00:12:00,039
 Na hora que ele está com o curativo feito, eu pego e mando uma mensagem para o proprietário.
 
-225
-00:12:00,139 --> 00:12:04,039
 Ó, aconteceu isso, isso, isso, já foi medicado, eu fiz o anti-inflamatório, já fiz o curativo,
 
-226
-00:12:04,139 --> 00:12:06,039
 o seu cavalo está guardado.
 
-227
-00:12:06,139 --> 00:12:12,039
 Então, a gente é pago para resolver problemas dentro do aras e assim, evitar problemas, né?
 
-228
-00:12:12,139 --> 00:12:13,039
 Porque você vê...
 
-229
-00:12:13,039 --> 00:12:20,039
 Você pode evitar uma cólica trabalhando certinho no horário, evitar um desconforto de cólica, uma intoxicação.
 
-230
-00:12:20,139 --> 00:12:27,039
 Então, o que faz você ganhar bem, ser um belo administrador de aras, que o cara não vai deixar você sair do aras,
 
-231
-00:12:27,139 --> 00:12:31,039
 é todo esse resumo de que a gente está fazendo aqui.
 
-232
-00:12:31,139 --> 00:12:33,039
 É todo um serviço.
 
-233
-00:12:33,139 --> 00:12:38,039
 Desde você saber o que é uma cocheira limpa, e desde que você quer um cavalo bem tratado,
 
-234
-00:12:38,139 --> 00:12:41,039
 e desde ter esse olhar clínico para o animal.
 
-235
-00:12:41,139 --> 00:12:43,039
 Porque às vezes, se o seu cavalo está ali ruim,
 
-236
-00:12:43,139 --> 00:12:46,039
 de cólica dentro da cocheira, você passou umas 10 vezes ali e nem percebeu.
 
-237
-00:12:46,139 --> 00:12:50,039
 Então, você tem que ter muita sensibilidade em ver...
 
-238
-00:12:50,139 --> 00:12:52,039
 Cada cavalo tem um perfil, né?
 
-239
-00:12:52,139 --> 00:12:56,039
 Então, só de olhar para um cavalo, eu já sei se ele está bem, se ele está hidratado,
 
-240
-00:12:56,139 --> 00:13:00,039
 se ele não comeu a ração, se ele não está comendo feno.
 
-241
-00:13:00,139 --> 00:13:08,039
 Outra coisa muito importante, pessoal, um bom administrador de aras tem que ter o controle da vermifugação dos seus animais.
 
-242
-00:13:08,139 --> 00:13:13,039
 A gente aconselha a cada 3 meses, você fazer a vermifugação,
 
-243
-00:13:13,139 --> 00:13:16,039
 a verificação dos seus animais, né?
 
-244
-00:13:16,139 --> 00:13:18,039
 Qual que seria o mais indicado?
 
-245
-00:13:18,139 --> 00:13:22,039
 Você fazer um exame fecal de...
 
-246
-00:13:22,139 --> 00:13:25,039
 Se tem 20 cavalos na sua cocheira, você faz de 4.
 
-247
-00:13:25,139 --> 00:13:28,039
 Custa em torno de 40, 50 reais.
 
-248
-00:13:28,139 --> 00:13:35,039
 Porque lá no exame, você vai ter lá a tabela da maior infestação dos vermes.
 
-249
-00:13:35,139 --> 00:13:40,039
 Sei lá, estrógnifos, oxiúrus, as maiores infestações.
 
-250
-00:13:40,139 --> 00:13:42,139
 Aí você vai pela maior até a menor.
 
-251
-00:13:42,240 --> 00:13:42,939
 Aí você vai pela maior até a menor.
 
-252
-00:13:43,040 --> 00:13:46,940
 Se é o maior estrógnos, né? Vamos colocar lá.
 
-253
-00:13:47,040 --> 00:13:50,940
 A gente usa a base de ivermectina, o primeiro vermífico.
 
-254
-00:13:51,040 --> 00:13:53,940
 O que a gente vai fazer? A gente vai marcar lá.
 
-255
-00:13:54,040 --> 00:13:56,940
 Janeiro. Vamos dar um exemplo aqui, né?
 
-256
-00:13:57,040 --> 00:14:02,940
 Janeiro. Fizemos um vermífico à base de ivermectina.
 
-257
-00:14:03,040 --> 00:14:07,940
 Eu estou dando um exemplo, tá? Ivermectina também combate oxiúrus, combate vários tipos de...
 
-258
-00:14:08,040 --> 00:14:11,940
 Beleza. Se você não quer fazer o exame, ou por algum outro motivo,
 
-259
-00:14:11,940 --> 00:14:14,940
 seus clientes reclamarem, ou o dono quiser fazer, o que eu costumo fazer?
 
-260
-00:14:15,040 --> 00:14:17,940
 Eu troco o princípio ativo dos meus vermíficos.
 
-261
-00:14:18,040 --> 00:14:23,940
 Se eu fiz em janeiro a base de ivermectina, passou janeiro, fevereiro, março, né?
 
-262
-00:14:24,040 --> 00:14:26,940
 A gente vai fazer abril.
 
-263
-00:14:27,040 --> 00:14:34,940
 Aí o que eu faço? Eu vou lá e faço uma base de prazinquentel, certo?
 
-264
-00:14:35,040 --> 00:14:39,940
 E o que eu gosto de fazer, pessoal? Quando eu faço um vermífico, eu faço duas doses.
 
-265
-00:14:39,940 --> 00:14:43,940
 Porque funciona mais ou menos assim pelos livros que eu li.
 
-266
-00:14:44,040 --> 00:14:59,940
 O ovo, né? Depois a larva, depois a verminose, o verme e a verminose adulta em fase de proliferação, certo?
 
-267
-00:15:00,040 --> 00:15:08,940
 Se a gente dá o vermífico à base de ivermectina, ele vai matar o bicho adulto, a verminose, a larva.
 
-268
-00:15:08,940 --> 00:15:10,940
 Porém, ele não vai matar o ovo.
 
-269
-00:15:11,040 --> 00:15:18,940
 Então, o que acontece? Daqui 15 dias, esse ovo vai estar na fase de larva, de verminose.
 
-270
-00:15:19,040 --> 00:15:24,940
 E daqui 21 dias, ele vai estar na fase de procriação.
 
-271
-00:15:25,040 --> 00:15:33,940
 Então, o que a gente faz? Se o vermífico só mata a larva, o verme e a verminose, com 15 dias ele vai estar nessa fase aqui.
 
-272
-00:15:34,040 --> 00:15:36,940
 Então, a gente vai lá e manda outro vermífico para matar ele de novo.
 
-273
-00:15:37,040 --> 00:15:38,940
 Aí a gente acaba com a infecção.
 
-274
-00:15:39,040 --> 00:15:40,940
 O que a gente faz? A gente faz uma testação.
 
-275
-00:15:41,040 --> 00:15:42,940
 Porque os ovos você não consegue matar com o vermífico.
 
-276
-00:15:43,040 --> 00:15:46,940
 Então, eu gosto sempre de fazer um e com 15 dias eu gosto de fazer outro.
 
-277
-00:15:47,040 --> 00:15:55,940
 Eu li alguns livros, fiz curso com grandes veterinários de vermifugação e eles me ensinaram assim e dá super certo aqui no nosso rancho.
 
-278
-00:15:56,040 --> 00:16:04,940
 Então, daqui 3 meses, qual que eu vou fazer outro? Eu fiz ivermectina, praziquentel, daqui 3 meses eu vou fazer um de doramectina.
 
-279
-00:16:05,040 --> 00:16:08,840
 Então pessoal, a gente usa a base de ivermectina, praziquentel, doramectina, ivermectina.
 
-280
-00:16:08,840 --> 00:16:19,759
 moxidectin, aí depende muito do gosto, tem outros princípios ativos também, às vezes
 
-281
-00:16:19,759 --> 00:16:25,420
 mescla muito, você compra um vermífago que ele é a base de vermictina e praziquentel
 
-282
-00:16:25,420 --> 00:16:34,000
 junto, tem às vezes doramectina com praziquentel, moxidectin geralmente ele não é misto,
 
-283
-00:16:34,000 --> 00:16:40,899
 então a gente faz assim, resumindo, por ano a gente faz 4 doses de vermifugação,
 
-284
-00:16:41,240 --> 00:16:46,559
 isso é muito importante, tá pessoal, no Aras você saber esse tipo de vermifugação,
 
-285
-00:16:47,139 --> 00:16:52,559
 porque sua tropa sempre tem que estar em dia com os vermífagos, então além de pronto
 
-286
-00:16:52,559 --> 00:16:57,580
 socorro, você tem que saber dos vermífagos e outra coisa que você tem que saber também,
 
-287
-00:16:57,580 --> 00:17:02,179
 é prevenção de doenças, qual seria a prevenção de doenças?
 
-288
-00:17:02,799 --> 00:17:03,580
 Seria vacinação.
 
-289
-00:17:04,000 --> 00:17:04,660
 Seria vacinação, pessoal.
-

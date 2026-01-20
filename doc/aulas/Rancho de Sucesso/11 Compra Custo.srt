@@ -1,608 +1,303 @@
-1
-00:00:00,000 --> 00:00:05,179
 E na aula de hoje a gente vai falar de um tema muito importante dentro do Aras,
 
-2
-00:00:05,419 --> 00:00:07,520
 que é noções de compra e de custo.
 
-3
-00:00:07,980 --> 00:00:13,380
 Hoje você para administrar um Aras, você tem que entender e procurar no mercado
 
-4
-00:00:13,380 --> 00:00:17,719
 qual a diferença de valor, qualidade, o que seria melhor para a tropa,
 
-5
-00:00:18,179 --> 00:00:21,300
 o que a gente precisa para a tropa.
 
-6
-00:00:21,379 --> 00:00:24,339
 Nossa tropa, nós temos tropa de cavalos de usuário,
 
-7
-00:00:24,760 --> 00:00:29,440
 que a gente pode dar uma ração 12%, a gente tem cavalos que estão em doma,
 
-8
-00:00:29,440 --> 00:00:36,200
 uma ração de 15%, a gente tem potros que são ração 18% e cavalos de alta performance.
 
-9
-00:00:36,760 --> 00:00:41,020
 Então a primeira coisa que eu tenho que entender, o que eu preciso para o meu Aras?
 
-10
-00:00:41,340 --> 00:00:44,340
 Qual a ração que me atenderia hoje?
 
-11
-00:00:44,640 --> 00:00:50,400
 E claro, na hora que eu tiver essa noção do que eu preciso, pegar as três principais marcas.
 
-12
-00:00:50,500 --> 00:00:53,000
 Eu não gosto de abarcar as dez marcas, porque eu já sei,
 
-13
-00:00:53,100 --> 00:00:56,299
 hoje entre dez marcas tem uma sete que eu já nem usaria.
 
-14
-00:00:56,719 --> 00:00:58,400
 Eu vou focar nas três melhores.
 
-15
-00:00:58,399 --> 00:01:01,839
 O que eu consigo nessas três melhores marcas?
 
-16
-00:01:02,179 --> 00:01:05,539
 Qual é o custo, o benefício, onde a gente consegue chegar?
 
-17
-00:01:06,039 --> 00:01:11,259
 Então, quando você tem uma boa noção de compra no Aras,
 
-18
-00:01:11,439 --> 00:01:19,019
 você pode estar economizando e dando um grande lucro para o Aras,
 
-19
-00:01:19,500 --> 00:01:21,000
 só sabendo uma boa compra.
 
-20
-00:01:21,379 --> 00:01:26,299
 Quando você é um comprador no Aras, você tem esse poder de procurar melhor preço,
 
-21
-00:01:26,299 --> 00:01:28,379
 procurar melhor negócio, que seria melhor.
 
-22
-00:01:28,400 --> 00:01:31,200
 E isso daqui é muito cobrado.
 
-23
-00:01:31,340 --> 00:01:38,760
 Quando você é um administrador de Aras, se você não tiver esse poder de compra,
 
-24
-00:01:39,160 --> 00:01:43,460
 vai vir chumbo de todo lado, do dono, do cliente, de tudo que é lado.
 
-25
-00:01:43,820 --> 00:01:47,580
 Então, acho que o principal aqui é você ter um bom poder de compra.
 
-26
-00:01:47,680 --> 00:01:52,320
 Eu vou comprar ração para 50 cavalos, eu preciso de um bom preço,
 
-27
-00:01:52,360 --> 00:01:54,660
 eu não estou comprando ração para 10 cavalos.
 
-28
-00:01:54,660 --> 00:01:58,000
 Ah, mas agora você precisa melhorar o preço, porque aumentou.
 
-29
-00:01:58,400 --> 00:02:00,359
 Agora eu estou trabalhando com 100 cavalos.
 
-30
-00:02:00,700 --> 00:02:04,640
 Então, é muito importante, pessoal, quando você é um administrador de Aras,
 
-31
-00:02:04,960 --> 00:02:07,640
 saber trabalhar com essa opção de compra.
 
-32
-00:02:07,800 --> 00:02:10,800
 Você tem que brigar pelo preço, você tem que brigar por melhorias,
 
-33
-00:02:10,800 --> 00:02:14,319
 você tem que, acabamos de falar na aula passada,
 
-34
-00:02:14,420 --> 00:02:18,259
 ter esse bom relacionamento com o seu fornecedor para conseguir enxugar o máximo.
 
-35
-00:02:18,659 --> 00:02:22,280
 Porque quando você consegue enxugar o máximo na compra com qualidade,
 
-36
-00:02:22,620 --> 00:02:23,759
 não baixar a qualidade.
 
-37
-00:02:24,460 --> 00:02:27,080
 Quando você consegue ter uma qualidade com uma compra boa,
 
-38
-00:02:27,439 --> 00:02:28,259
 você consegue reduzir.
 
-39
-00:02:28,259 --> 00:02:32,079
 Você consegue reduzir muito os índices de prejuízo do Aras.
 
-40
-00:02:32,579 --> 00:02:41,079
 Então, corre atrás, trabalha em cima desse critério aqui, que seria a compra.
 
-41
-00:02:41,699 --> 00:02:46,599
 E sempre a primeira coisa que um dono de Aras vem em cima da gente é
 
-42
-00:02:46,599 --> 00:02:48,899
 como é que está a compra, que preço você está pagando.
 
-43
-00:02:49,219 --> 00:02:51,359
 Ah, mas tal fornecedor está com um bom preço.
 
-44
-00:02:52,500 --> 00:02:57,000
 Então, às vezes ele quer questionar também porque o outro fornecedor está mais barato,
 
-45
-00:02:57,000 --> 00:02:58,239
 aí você tem que ter na ponta da língua.
 
-46
-00:02:58,259 --> 00:03:03,219
 Não, porque essa ração tem tanto de proteína, tem tanto de estratetério, tem tanto de minerais.
 
-47
-00:03:03,539 --> 00:03:07,419
 Por isso, eu não optei trocar porque eu achei que seria prejuízo.
 
-48
-00:03:08,159 --> 00:03:12,699
 Então, depois que você conseguiu trabalhar com a opção de compra,
 
-49
-00:03:13,459 --> 00:03:17,199
 meu, tudo que você conseguir reduzir de custo no Aras,
 
-50
-00:03:17,299 --> 00:03:18,899
 onde a gente reduz custo?
 
-51
-00:03:19,019 --> 00:03:20,599
 Lembra no poder de compra lá?
 
-52
-00:03:20,899 --> 00:03:23,439
 A gente pode reduzir custo, como eu disse,
 
-53
-00:03:23,500 --> 00:03:27,659
 às vezes não dá para diminuir tanto numa compra de ração, de volumoso,
 
-54
-00:03:27,659 --> 00:03:30,359
 que o feno e a ração sempre é aquela briga.
 
-55
-00:03:30,740 --> 00:03:32,799
 Mas dá para diminuir os custos onde?
 
-56
-00:03:32,939 --> 00:03:34,139
 Na serragem.
 
-57
-00:03:34,520 --> 00:03:39,740
 O Aras tem muito problema de, ah, precisa comprar uma madeira,
 
-58
-00:03:40,099 --> 00:03:41,699
 aí é uma bomba, negócio.
 
-59
-00:03:41,879 --> 00:03:45,659
 Então, você tem que prestar muita atenção nesses custos
 
-60
-00:03:45,659 --> 00:03:47,300
 e sempre estar apresentando os custos.
 
-61
-00:03:47,439 --> 00:03:49,019
 Ah, deu um problema numa bomba.
 
-62
-00:03:49,340 --> 00:03:53,620
 Ah, eu tive esses três custos, optei por esse aqui, o melhor, por causa disso tudo.
 
-63
-00:03:53,620 --> 00:03:55,460
 Tudo isso aqui engloba, pessoal.
 
-64
-00:03:55,639 --> 00:03:57,620
 Compra, custos e manutenção.
 
-65
-00:03:57,859 --> 00:04:02,060
 A gente sabe hoje que um Aras, para ele se manter de pé, ele dá muita manutenção.
 
-66
-00:04:02,060 --> 00:04:04,460
 Toda hora é um cavalo quebrando um piquete,
 
-67
-00:04:04,460 --> 00:04:07,259
 é um cavalo quebrando um fio de choque,
 
-68
-00:04:07,259 --> 00:04:09,460
 é um cavalo quebrando um cano,
 
-69
-00:04:09,460 --> 00:04:11,960
 é daqui a pouco uma porteira que dá problema.
 
-70
-00:04:11,960 --> 00:04:17,759
 Então, um bom administrador de Aras, primeiro, ele faz a manutenção disso,
 
-71
-00:04:17,759 --> 00:04:19,060
 não deixa se acabar, né?
 
-72
-00:04:19,060 --> 00:04:23,459
 Porque imagina, o dono, o cliente chegando, chega ali, tem uma porteira caída,
 
-73
-00:04:23,459 --> 00:04:25,259
 tem uma mangueira estourada.
 
-74
-00:04:25,259 --> 00:04:27,459
 Então, você tem que se atentar muito.
 
-75
-00:04:27,660 --> 00:04:31,660
 Na manutenção, tem aquele olhar clínico, precisa melhorar aquela cerca,
 
-76
-00:04:31,660 --> 00:04:33,660
 aquela porteira precisa ser arrumada,
 
-77
-00:04:33,660 --> 00:04:36,660
 tem uma mangueira para fora ali que um cavalo vai pisar.
 
-78
-00:04:36,660 --> 00:04:39,260
 Por quê? A manutenção, ela diminui custo.
 
-79
-00:04:39,260 --> 00:04:40,260
 Custo do quê?
 
-80
-00:04:40,260 --> 00:04:44,260
 O custo de ir lá arrumar, de ter que ir no material construção, buscar as coisas.
 
-81
-00:04:44,260 --> 00:04:47,260
 E a compra reduz o quê?
 
-82
-00:04:47,260 --> 00:04:52,860
 Reduz o índice de prejuízo do Aras.
 
-83
-00:04:52,860 --> 00:04:55,860
 Então, a partir do momento que você está administrando um Aras,
 
-84
-00:04:55,860 --> 00:04:57,460
 seu olhar tem que ser muito clínico.
 
-85
-00:04:57,459 --> 00:04:58,459
 Por exemplo, esse aí, ó.
 
-86
-00:04:58,459 --> 00:04:59,959
 Mês a mês, dia a dia.
 
-87
-00:04:59,959 --> 00:05:01,459
 Ah, esse mês aqui eu vou...
 
-88
-00:05:01,459 --> 00:05:05,259
 E aí, a ração? Consegue baixar esse mês?
 
-89
-00:05:05,259 --> 00:05:05,959
 Como é que está?
 
-90
-00:05:05,959 --> 00:05:09,459
 Eu vi na televisão que baixou o preço da soja, do milho.
 
-91
-00:05:09,459 --> 00:05:10,959
 Como é que está? O diesel diminuiu?
 
-92
-00:05:10,959 --> 00:05:12,459
 Vamos brigar nesse preço?
 
-93
-00:05:12,459 --> 00:05:14,459
 Diminuiu os custos.
 
-94
-00:05:14,459 --> 00:05:15,959
 Procurar no mercado.
 
-95
-00:05:15,959 --> 00:05:18,959
 Ah, não é porque eu preciso ir lá buscar um pacote de prego,
 
-96
-00:05:18,959 --> 00:05:20,459
 porque...
 
-97
-00:05:20,459 --> 00:05:22,459
 Não é porque eu vou no primeiro material construção.
 
-98
-00:05:22,459 --> 00:05:24,459
 Não, vou ver quando está nos três mais perto aqui.
 
-99
-00:05:24,459 --> 00:05:25,459
 Por quê?
 
-100
-00:05:25,459 --> 00:05:27,459
 Gente, é uma torneira...
 
-101
-00:05:27,459 --> 00:05:30,459
 Uma torneira aberta que enche uma caixa d'água.
 
-102
-00:05:30,459 --> 00:05:33,459
 Isso eu dei de exemplo para os meus funcionários,
 
-103
-00:05:33,459 --> 00:05:35,459
 que tinha uma torneira lá do lavador,
 
-104
-00:05:35,459 --> 00:05:37,459
 que todo dia ela ficava assim, um pinguinho.
 
-105
-00:05:37,459 --> 00:05:39,459
 Eu falei, gente, arruma essa torneira.
 
-106
-00:05:39,459 --> 00:05:40,459
 Passaram outro dia, o pessoal...
 
-107
-00:05:40,459 --> 00:05:41,459
 Ah, não deu tempo.
 
-108
-00:05:41,459 --> 00:05:42,959
 Pessoal, arruma essa torneira.
 
-109
-00:05:42,959 --> 00:05:43,459
 Eu falei, ó.
 
-110
-00:05:43,459 --> 00:05:46,459
 Vocês não estão dando importância para essa torneira.
 
-111
-00:05:46,459 --> 00:05:49,459
 Peguei uma caixa d'água de mil litros e coloquei debaixo.
 
-112
-00:05:49,459 --> 00:05:51,459
 Coloquei ela, era umas seis horas da tarde.
 
-113
-00:05:51,459 --> 00:05:53,459
 No outro dia, quando chegamos sete horas da manhã,
 
-114
-00:05:53,459 --> 00:05:54,959
 a caixa estava cheia.
 
-115
-00:05:54,959 --> 00:05:55,959
 Imagina você.
 
-116
-00:05:55,959 --> 00:05:57,459
 E isso é um exemplo que eu uso hoje.
 
-117
-00:05:57,459 --> 00:06:00,459
 Eu usei de uma torneira, mas isso é em todo o aras.
 
-118
-00:06:00,459 --> 00:06:01,959
 Em toda a parte do aras.
 
-119
-00:06:01,959 --> 00:06:03,959
 E claro, pessoal, manutenção.
 
-120
-00:06:03,959 --> 00:06:06,459
 Se você não tiver aquela manutenção no seu aras,
 
-121
-00:06:06,459 --> 00:06:08,959
 se você deixar estragar tudo primeiro,
 
-122
-00:06:08,959 --> 00:06:11,959
 para depois arrumar, o estrago vai ser muito maior.
 
-123
-00:06:11,959 --> 00:06:14,459
 É melhor todo dia você ir gastando um pouquinho,
 
-124
-00:06:14,459 --> 00:06:16,459
 do que gastar tudo em um ano.
 
-125
-00:06:16,459 --> 00:06:19,959
 Seja nele uma pintura, uma troca de porteira,
 
-126
-00:06:19,959 --> 00:06:21,459
 uma troca de cerca.
 
-127
-00:06:21,459 --> 00:06:23,959
 Então, isso você vai ser cobrado.
 
-128
-00:06:23,959 --> 00:06:26,959
 Porque o dono, quando ele chega, ele quer que você economiza.
 
-129
-00:06:26,959 --> 00:06:29,959
 Mas se ele chegar e ver uma porteira, um negócio caído,
 
-130
-00:06:29,959 --> 00:06:31,459
 ele vai te chamar a atenção.
 
-131
-00:06:31,459 --> 00:06:33,459
 Agora, se você chega e fala,
 
-132
-00:06:33,459 --> 00:06:35,459
 eu tive que gastar em tal porteira tudo,
 
-133
-00:06:35,459 --> 00:06:38,959
 eu tive que gastar um dinheiro e apresentar que aquilo era preciso,
 
-134
-00:06:38,959 --> 00:06:42,959
 ele vai resmungar um pouco, mas não vai te chamar a atenção.
 
-135
-00:06:42,959 --> 00:06:45,959
 Então, você tem que trabalhar redondo nisso aqui,
 
-136
-00:06:45,959 --> 00:06:47,459
 para nunca ser chamado a atenção.
 
-137
-00:06:47,459 --> 00:06:50,459
 E tudo isso daqui cria uma energia boa para você,
 
-138
-00:06:50,459 --> 00:06:53,959
 cria uma boa reputação para você.
 
-139
-00:06:53,959 --> 00:06:56,459
 Se um dia você achar que está fazendo tudo isso daqui,
 
-140
-00:06:56,959 --> 00:06:58,459
 e não está sendo recompensado,
 
-141
-00:06:58,459 --> 00:07:01,459
 com certeza vai ter uns dois, três aras esperando você sair daqui,
 
-142
-00:07:01,459 --> 00:07:02,959
 para pular para o outro.
 
-143
-00:07:02,959 --> 00:07:05,959
 Hoje, um profissional do mercado de cavalo,
 
-144
-00:07:05,959 --> 00:07:09,459
 seja ele domador, treinador, ou um administrador de aras,
 
-145
-00:07:09,459 --> 00:07:11,459
 se ele faz seu trabalho com excelência,
 
-146
-00:07:11,459 --> 00:07:12,959
 ele está trabalhando no aras,
 
-147
-00:07:12,959 --> 00:07:15,459
 recebendo outras propostas de outro aras.
 
-148
-00:07:15,459 --> 00:07:16,959
 Quer dizer, ele não fica desempregado,
 
-149
-00:07:16,959 --> 00:07:19,959
 porque o mercado está muito precisado,
 
-150
-00:07:19,959 --> 00:07:22,959
 não tem mão de obra hoje no mercado,
 
-151
-00:07:22,959 --> 00:07:24,959
 e quem tem, tem medo de perder.
 
-152
-00:07:24,959 --> 00:07:26,459
 Tá bom? É uma dica que eu deixo para vocês.
-

@@ -1,472 +1,235 @@
-1
-00:00:00,000 --> 00:00:05,339
 Uma coisa que é muito importante todo tratador saber é dar os primeiros socorros num cavalo,
 
-2
-00:00:05,459 --> 00:00:11,960
 porque às vezes a gente pode estar viajando, o veterinário às vezes pode estar viajando ou não atende o celular.
 
-3
-00:00:12,259 --> 00:00:20,420
 Então é muito importante você saber usar um anti-inflamatório, um anti-térmico quando o cavalo está com temperatura,
 
-4
-00:00:20,940 --> 00:00:22,820
 um cavalo com desconforto de cólica.
 
-5
-00:00:23,320 --> 00:00:26,519
 Eu não posso ensinar vocês porque eu não sou veterinário formado,
 
-6
-00:00:26,519 --> 00:00:31,160
 mas qualquer área que você for trabalhar, qualquer veterinário vai te ensinar,
 
-7
-00:00:31,280 --> 00:00:36,519
 porque é muito importante esses primeiros socorros, você pode salvar a vida do animal.
 
-8
-00:00:37,039 --> 00:00:44,560
 Então, a primeira coisa que vocês precisam saber é que existem quatro tipos de aplicação no cavalo.
 
-9
-00:00:44,899 --> 00:00:50,359
 Que seria qual? A intramuscular, que seria intramuscular no músculo do cavalo.
 
-10
-00:00:50,359 --> 00:00:56,500
 Ela pode ser feita nessa região triangular aqui do pescoço ou na região da garupa.
 
-11
-00:00:56,940 --> 00:01:02,280
 Lembrando que sempre é bom você sempre puxar, mesmo sendo na garupa ou no pescoço,
 
-12
-00:01:02,359 --> 00:01:06,659
 você puxar a seringa para ver se não pegou nenhum ponto, nenhum vaso de veia.
 
-13
-00:01:07,000 --> 00:01:11,439
 Então a primeira que a gente usa mais seria a injeção intramuscular.
 
-14
-00:01:12,040 --> 00:01:13,900
 A segunda seria subcutânea.
 
-15
-00:01:14,200 --> 00:01:16,340
 O que seria subcutânea? Debaixo do couro.
 
-16
-00:01:16,600 --> 00:01:24,580
 Toda injeção subcutânea é debaixo do couro, que a gente usa muito pegar aqui na região do pescoço.
 
-17
-00:01:24,900 --> 00:01:26,340
 Aí tem as introvenadas.
 
-18
-00:01:26,519 --> 00:01:32,699
 A injeção venosa, que seria aqui no pescoço do animal, onde passa a veia dele,
 
-19
-00:01:33,359 --> 00:01:36,199
 onde a gente faz todo o medicamento venoso.
 
-20
-00:01:36,679 --> 00:01:41,679
 Quando o cavalo não é possível pegar pela posição, o cavalo pode estar deitado no chão,
 
-21
-00:01:42,039 --> 00:01:47,000
 a gente pega aqui também, ou aqui na parte de dentro do membro anterior,
 
-22
-00:01:47,719 --> 00:01:51,239
 ou ali na parte aqui do boleto do cavalo.
 
-23
-00:01:51,319 --> 00:01:55,519
 Mas é muito difícil, geralmente, sempre dar esse cavalo foi feito remédio hoje.
 
-24
-00:01:56,019 --> 00:01:56,500
 Então, a primeira coisa que a gente faz é a injeção venosa.
 
-25
-00:01:56,500 --> 00:01:58,340
 Então, o que vocês precisam saber?
 
-26
-00:01:59,319 --> 00:02:03,739
 Existe injeção intramuscular, intravenosa, subcutânea e intraderme.
 
-27
-00:02:03,819 --> 00:02:06,840
 Intraderme é para tratamento de pele, vocês não precisam saber.
 
-28
-00:02:07,280 --> 00:02:10,560
 Isso daí já diz respeito ao veterinário.
 
-29
-00:02:10,840 --> 00:02:12,819
 Então, o que vocês precisam saber?
 
-30
-00:02:13,539 --> 00:02:16,340
 Poxa, meu cavalo está com desconforto de cólica.
 
-31
-00:02:16,780 --> 00:02:19,659
 A gente pode entrar com um remédio à base de flunixin.
 
-32
-00:02:20,039 --> 00:02:23,520
 Seria um Flumax, flunixina ou um banamine, né?
 
-33
-00:02:23,520 --> 00:02:25,060
 Para dar aquele desconforto.
 
-34
-00:02:25,259 --> 00:02:26,420
 Ele está com desconforto porque ele está com...
 
-35
-00:02:26,500 --> 00:02:28,360
 Ele está com desconforto de dor, alguma coisa.
 
-36
-00:02:28,759 --> 00:02:33,860
 Enquanto o veterinário não chega, você pode fazer ali entre 10 a 15 ml de banamine,
 
-37
-00:02:34,060 --> 00:02:39,979
 ou flunixin ou flumax na veia, quando o cavalo apresenta desconforto de cólica.
 
-38
-00:02:40,479 --> 00:02:45,560
 Ah, o cavalo teve um traumatismo nos membros.
 
-39
-00:02:45,699 --> 00:02:47,500
 Tipo, bateu, teve uma...
 
-40
-00:02:48,099 --> 00:02:49,759
 Sofreu uma pancada, né?
 
-41
-00:02:50,219 --> 00:02:54,420
 Uma pancada de semiluxação, neoluxação.
 
-42
-00:02:54,659 --> 00:02:56,420
 Então, o que a gente costuma...
 
-43
-00:02:56,500 --> 00:02:58,039
 Vamos usar o Equipalazone, né?
 
-44
-00:02:58,300 --> 00:03:04,759
 Só que é um remédio mais complicado, porque se você errar a veia dele, ele fere muito a derme do animal, né?
 
-45
-00:03:04,800 --> 00:03:08,620
 Ele pode dar um ferimento intraderme aqui.
 
-46
-00:03:08,819 --> 00:03:17,620
 Ele pode ocasionar uma lesão aonde o Equipalazone pega, porque ele é feito para ser feito intravenosa, né?
 
-47
-00:03:17,900 --> 00:03:22,680
 E ele, como é à base de fenilbutazone, ele é muito mais forte do que o flunixin, né?
 
-48
-00:03:22,680 --> 00:03:25,199
 Isso aí são casos de pancada, né?
 
-49
-00:03:25,199 --> 00:03:26,340
 Eu já usaria ele.
 
-50
-00:03:26,500 --> 00:03:29,699
 Tem também Equipalazone em pó, que você pode estar usando.
 
-51
-00:03:30,159 --> 00:03:35,180
 Ah, meu cavalo veio uma erva diferente no feno, ou ele comeu alguma coisa,
 
-52
-00:03:35,379 --> 00:03:40,479
 ou está passando mal por alguma intoxicação de ração mesmo, né?
 
-53
-00:03:40,719 --> 00:03:42,120
 Às vezes pode acontecer.
 
-54
-00:03:42,599 --> 00:03:48,460
 Meu, às vezes 15, 20 ml, 50 ml de mercepton, você salva um animal, né?
 
-55
-00:03:48,460 --> 00:03:52,680
 Um animal comeu, se soltou no piquete ou no pasto, ele comeu uma erva,
 
-56
-00:03:52,680 --> 00:03:55,539
 ou fez algum medicamento errado.
 
-57
-00:03:56,500 --> 00:04:03,939
 Você está entrando com mercepton, você salva a vida do animal por causa de 20 ml de mercepton, né?
 
-58
-00:04:04,259 --> 00:04:05,639
 Esses são os primeiros socorros.
 
-59
-00:04:05,740 --> 00:04:09,080
 Você solta um cavalo no piquete, ele se machuca, veio cortado.
 
-60
-00:04:09,419 --> 00:04:13,020
 Você já pode estar fazendo uma antitetânica, né?
 
-61
-00:04:13,020 --> 00:04:17,680
 Para evitar que a bactéria do tétano se prolifere, né?
 
-62
-00:04:17,759 --> 00:04:20,740
 Enquanto o veterinário não chegar, né?
 
-63
-00:04:20,800 --> 00:04:23,079
 Você pode estar fazendo esses primeiros socorros, né?
 
-64
-00:04:23,720 --> 00:04:25,079
 Outra coisa também muito importante.
 
-65
-00:04:26,220 --> 00:04:26,339
 Ah!
 
-66
-00:04:26,339 --> 00:04:27,779
 Uma cobra mordeu, né?
 
-67
-00:04:27,979 --> 00:04:31,959
 Você pode ter também ali na sua farmácia, no seu rancho.
 
-68
-00:04:32,039 --> 00:04:38,299
 Isso é de extrema obrigação de um tratador que tem um manejo,
 
-69
-00:04:38,379 --> 00:04:40,239
 que tem um certo conhecimento com o animal,
 
-70
-00:04:40,620 --> 00:04:45,479
 já fazer um soro antiofídico no cavalo e estar assim salvando a vida dele.
 
-71
-00:04:45,539 --> 00:04:49,500
 Porque às vezes o nosso veterinário pode estar em uma cidade 100 km daqui, né?
 
-72
-00:04:49,500 --> 00:04:53,859
 Pode estar atendendo uma cólica num rancho, num sítio onde não pega celular
 
-73
-00:04:53,859 --> 00:04:56,319
 e você salva a vida do seu animal.
 
-74
-00:04:56,339 --> 00:04:57,739
 Por causa de uma injeção.
 
-75
-00:04:58,139 --> 00:05:01,339
 Às vezes uma aranha mordeu, o cavalo está com a garganta inchada,
 
-76
-00:05:01,599 --> 00:05:04,519
 a abelha pegou no passo, o cavalo está todo pipocado.
 
-77
-00:05:04,619 --> 00:05:07,099
 Você pode estar entrando com uma corticoide, né?
 
-78
-00:05:07,099 --> 00:05:08,339
 Um mercepton, um anti-inflamatório.
 
-79
-00:05:09,359 --> 00:05:13,539
 Então, essas coisas eu não posso ensinar vocês como é que pega, como é que faz.
 
-80
-00:05:14,039 --> 00:05:20,479
 Dosagem, porque eu não tenho um diploma para mim estar passando isso para vocês, né?
 
-81
-00:05:20,819 --> 00:05:24,859
 Mas isso no dia a dia de qualquer rancho, vocês vão aprender isso daqui.
 
-82
-00:05:24,859 --> 00:05:26,319
 Fica claro, é básico.
 
-83
-00:05:26,339 --> 00:05:26,479
 Fica claro, é básico.
 
-84
-00:05:26,919 --> 00:05:31,099
 Na vida de um tratador é muito importante, porque como eu disse, né?
 
-85
-00:05:31,119 --> 00:05:33,699
 Às vezes o veterinário está viajando ou o dono está viajando,
 
-86
-00:05:34,000 --> 00:05:37,739
 você salva a vida do animal por causa de uma simples injeção, né?
 
-87
-00:05:39,219 --> 00:05:44,159
 Então, é muito importante você ter todo esse cuidado, todo esse respaldo com a tropa.
 
-88
-00:05:44,500 --> 00:05:46,679
 Ter esse a mais, né? No seu dia a dia.
 
-89
-00:05:47,159 --> 00:05:52,699
 Porque é muito importante você ter uma pessoa ali que saiba atender seu animal
 
-90
-00:05:52,699 --> 00:05:55,739
 num momento de risco, num momento ali de acidente.
 
-91
-00:05:55,740 --> 00:05:57,960
 Saber fazer um bom curativo, né?
 
-92
-00:05:58,000 --> 00:06:06,960
 Saber lavar um curativo, saber ter os cuidados essenciais para não ter uma infecção,
 
-93
-00:06:07,060 --> 00:06:08,759
 uma bactéria num curativo, né?
 
-94
-00:06:08,759 --> 00:06:13,780
 Saber limpar, higienizar, estancar um ferimento até o veterinário chegar.
 
-95
-00:06:13,920 --> 00:06:17,319
 Às vezes precisa suturar o ferimento.
 
-96
-00:06:17,500 --> 00:06:22,079
 Então, esse é o básico para você ser um tratador de sucesso, sabe?
 
-97
-00:06:22,079 --> 00:06:25,300
 Ter esse leque de possibilidades.
 
-98
-00:06:25,300 --> 00:06:29,020
 Essas cartas na manga para você ser bem reconhecido na sua profissão.
 
-99
-00:06:29,579 --> 00:06:35,360
 E o dono ou o treinador, seja lá quem for, ter medo de você sair no aras
 
-100
-00:06:35,360 --> 00:06:38,500
 porque você tem essa bagagem, essa experiência, né?
 
-101
-00:06:38,800 --> 00:06:43,400
 E se qualquer rancho que você trabalhar, você pedir para o veterinário te ensinar a pegar uma veia,
 
-102
-00:06:43,560 --> 00:06:47,420
 fazer uma injeção, tudo, não se confundir nos medicamentos, pessoal.
 
-103
-00:06:47,519 --> 00:06:50,500
 Que cada medicamento tem umas pegadinhas que não pode se confundir.
 
-104
-00:06:50,860 --> 00:06:52,379
 Estudar muito o medicamento.
 
-105
-00:06:52,379 --> 00:06:55,180
 Quando tiver dúvida, lê antes de...
 
-106
-00:06:55,300 --> 00:06:58,319
 de estar fazendo, porque do mesmo jeito pode salvar a vida do animal.
 
-107
-00:06:58,699 --> 00:07:03,520
 Uma negligência, você pode estar matando um animal por uma injeção trocada,
 
-108
-00:07:03,600 --> 00:07:06,160
 ou coisa assim, injeção intramuscular, você fazer na veia.
 
-109
-00:07:06,600 --> 00:07:09,180
 Então, é muito importante você estudar muito essa parte.
 
-110
-00:07:09,540 --> 00:07:16,340
 Eu conheço tratadores que passam sonda, que tratam uma laminite, que tratam um tétano.
 
-111
-00:07:17,080 --> 00:07:21,639
 Tratadores de 20, 30 anos de experiência, que às vezes dá muito baile aí
 
-112
-00:07:21,639 --> 00:07:24,480
 em bastante veterinários novos aí, entendeu?
 
-113
-00:07:25,300 --> 00:07:30,420
 Então, é bacana vocês estudarem bem essa parte para vocês serem bem reconhecidos,
 
-114
-00:07:30,420 --> 00:07:31,600
 bem remunerados, né?
 
-115
-00:07:31,600 --> 00:07:36,920
 Que não adianta você só ser bem reconhecido e não ser bem remunerado na sua profissão.
 
-116
-00:07:37,240 --> 00:07:39,560
 Então, quanto mais você estuda, mais você ganha.
 
-117
-00:07:39,680 --> 00:07:43,720
 Quanto mais você ser o braço direito do treinador, do dono do ar,
 
-118
-00:07:44,000 --> 00:07:47,680
 mais você vai ser bem remunerado por isso, tá bom?
-
