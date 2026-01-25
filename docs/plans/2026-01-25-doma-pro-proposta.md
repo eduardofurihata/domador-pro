@@ -16,17 +16,17 @@ Aqui, o assinante entende o porquê de cada etapa, antes de exigir qualquer cois
 ### O que é
 - Uma **assinatura mensal** (não é conteúdo fechado)
 - Baseada em **trilhas de aprendizado**
-- Conteúdo prático e exclusivo + Métodos do Domador André Pedroso
+- Material prático só pra assinantes + Métodos do Domador André Pedroso
 
 **O membro recebe:**
 - 📱 **Grupo fechado no WhatsApp** - acesso direto ao André Pedroso + comunidade de domadores
-- 🎬 **3 vídeos novos por semana** - conteúdo que nunca para
+- 🎬 **3 vídeos novos por semana** - aulas que nunca param
 - 🎯 **Trilhas de aprendizado** - Dessensibilização, Primeira Sela, Nuca, Paleta, Costela, Garupa e mais
-- 🔴 **Lives exclusivas** - plantões de dúvidas e demonstrações ao vivo
+- 🔴 **Lives só pra assinantes** - plantões de dúvidas e demonstrações ao vivo
 
 ### Posicionamento
 - **Não é só aula** - é acompanhamento contínuo
-- **Não é consultoria individual** - é comunidade com acesso ao expert
+- **Não é consultoria individual** - é comunidade com acesso ao André
 - **É o caminho completo** - do iniciante ao domador profissional
 
 ### Modelo de Negócio
@@ -48,7 +48,7 @@ O Doma Pro é a **porta de entrada** do ecossistema. Estrutura futura:
         ↓
    Assinante engajado
         ↓
-   Upsells futuros:
+   Próximos produtos:
    • Trilhas avançadas (outros temas)
    • Experiências presenciais
    • Mentorias em grupo
@@ -60,24 +60,24 @@ O Doma Pro é a **porta de entrada** do ecossistema. Estrutura futura:
 
 ## 2. O Que Está Incluído
 
-> **Ordem de prioridade:** Grupo WhatsApp → Conteúdo novo → Lives com André → Trilhas de aprendizado
+> **Ordem de prioridade:** Grupo WhatsApp → Vídeos novos → Lives com André → Trilhas de aprendizado
 
 ### 📱 Grupo Fechado no WhatsApp (principal)
 **Acesso direto ao domador André Pedroso:**
-- Comunidade exclusiva de domadores
+- Comunidade fechada de domadores
 - André Pedroso presente no grupo respondendo dúvidas
 - Troca de experiências entre membros
 - Networking do mundo do cavalo
 - **"Você não está sozinho - tem o André e a comunidade com você"**
 
-### 🎬 Conteúdo Novo Toda Semana
+### 🎬 Vídeos Novos Toda Semana
 **3 vídeos por semana** (12/mês, 144/ano):
 - Pílulas práticas de doma - curtas e objetivas
 - Respostas a dúvidas dos membros
 - Casos reais, correções, técnicas específicas
-- **"Enquanto você for assinante, o conteúdo nunca para"**
+- **"Enquanto você for assinante, os vídeos nunca param"**
 
-### 🔴 Lives Exclusivas com André Pedroso
+### 🔴 Lives Só Pra Assinantes com André Pedroso
 **Plantões de dúvidas e demonstrações ao vivo:**
 - Plantões de dúvidas sobre doma
 - Demonstrações ao vivo
@@ -121,19 +121,19 @@ Ao completar a trilha, o membro recebe o **Certificado de Domador pelo Método A
 - ✓ Para quem busca **método e técnicas**, não improviso
 - ✓ Para quem quer **entender o cavalo antes de exigir dele**
 
-### O Problema Real
+### O Desafio Real
 
-**"O cavalo não tem problema. O problema é não saber o que fazer com ele."**
+**"O cavalo não tem culpa. O desafio é saber o que fazer com ele."**
 
 A maioria das pessoas que trabalha com cavalo aprendeu olhando, imitando, na tentativa e erro. Funciona até certo ponto. Mas chega uma hora que:
 
-| O que acontece | O custo real |
+| O que acontece | O preço de errar |
 |----------------|--------------|
 | O cavalo trava e você não sabe por quê | Semanas perdidas refazendo trabalho |
 | Você pula etapa sem perceber | Cavalo que trava, empaca ou resiste lá na frente |
-| Aplica pressão na hora errada | Cavalo defensivo, tenso, difícil de corrigir |
+| Aplica pressão na hora errada | Cavalo defensivo, tenso, mais duro de corrigir |
 | Não tem com quem tirar dúvida | Insegurança se está fazendo certo |
-| Cada cavalo parece um problema novo | Falta de método = resultado inconsistente |
+| Cada cavalo parece um desafio novo | Falta de método = resultado inconsistente |
 
 **O preço de errar na doma:**
 - Cavalo mal trabalhado vale menos no mercado
@@ -145,11 +145,11 @@ A maioria das pessoas que trabalha com cavalo aprendeu olhando, imitando, na ten
 
 ### A Solução: Método + Acompanhamento
 
-| O Problema | Como o Doma Pro Resolve |
+| O Desafio | Como o Doma Pro Resolve |
 |------------|------------------------|
 | Aprendeu olhando, sem fundamento | Trilha estruturada com o porquê de cada etapa |
 | Não sabe onde está errando | André no grupo respondendo dúvidas reais |
-| Cavalo travou e não sabe o que fazer | 3 vídeos novos por semana com casos práticos |
+| Cavalo travou e não sabe o que fazer | 3 vídeos novos por semana com casos do dia a dia |
 | Se sente sozinho no processo | Comunidade de domadores que vivem a mesma coisa |
 | Resultado inconsistente | Método testado em +2.500 alunos formados |
 
@@ -181,8 +181,8 @@ A maioria das pessoas que trabalha com cavalo aprendeu olhando, imitando, na ten
 | Aula Avulsa | Doma Pro |
 |--------------|----------|
 | Assiste sozinho | Comunidade + André junto |
-| Conteúdo parado | 3 vídeos novos por semana |
-| Dúvida fica sem resposta | Grupo + lives para tirar dúvida |
+| Material parado | 3 vídeos novos por semana |
+| Dúvida fica sem resposta | Grupo + lives pra tirar dúvida |
 | Comprou, esqueceu | Acompanhamento contínuo |
 
 ---
@@ -195,7 +195,7 @@ A maioria das pessoas que trabalha com cavalo aprendeu olhando, imitando, na ten
 |--------------------------|----------------------------|
 | Grupo fechado no WhatsApp com André Pedroso | R$ 597 |
 | 144 vídeos novos por ano (3/semana) | R$ 997 |
-| Lives exclusivas com André Pedroso | R$ 497 |
+| Lives só pra assinantes com André Pedroso | R$ 497 |
 | Trilhas de aprendizado (Dessensibilização, Trabalho de Chão, Primeira Sela, Nuca, Paleta...) | R$ 497 |
 | Certificado de Conclusão | R$ 197 |
 | **Valor total** | **R$ 2.785** |
@@ -220,7 +220,7 @@ A maioria das pessoas que trabalha com cavalo aprendeu olhando, imitando, na ten
 
 > **"Para os alunos, esse preço especial até o dia [DATA]"**
 >
-> Quem já é aluno do André Pedroso tem condição exclusiva. Você já provou que leva a doma a sério - agora continua evoluindo com acompanhamento contínuo.
+> Quem já é aluno do André Pedroso tem condição especial. Você já provou que leva a doma a sério - agora continua evoluindo com acompanhamento contínuo.
 
 ### Política de Cancelamento
 - Cancelamento a qualquer momento
@@ -229,10 +229,10 @@ A maioria das pessoas que trabalha com cavalo aprendeu olhando, imitando, na ten
 
 **Texto simples:** "O assinante pode cancelar quando quiser, mantendo acesso até o final do ciclo vigente."
 
-### Benefícios Exclusivos do Assinante (dentro do Astron Members)
+### Benefícios do Assinante (dentro do Astron Members)
 - Área de avisos
-- Conteúdo extra
-- Cupons exclusivos
+- Material extra
+- Cupons especiais
 
 ---
 
@@ -244,11 +244,11 @@ R$ 69/mês (ou R$ 49 pra quem já é aluno) é menos que uma saca de ração. Vo
 ### "Não tenho tempo"
 Os vídeos são curtos e práticos. Você assiste no celular enquanto toma café ou antes de ir pro piquete. 15 minutos por dia já muda seu jogo.
 
-### "Meu cavalo é muito difícil/bravo"
-O método começa pela base - confiança e dessensibilização. Não importa se é chucro ou problemático. Cavalo difícil é cavalo que não teve base. A gente constrói junto.
+### "Meu cavalo é muito desafiador/bravo"
+O método começa pela base - confiança e dessensibilização. Não importa se é chucro ou travado. Cavalo desafiador é cavalo que não teve base. A gente constrói junto.
 
-### "Já vi muito conteúdo no YouTube"
-Conteúdo solto não dá resultado. O Doma Pro é método com sequência, do chão à sela, com acompanhamento. Você não fica sozinho tentando juntar peças.
+### "Já vi muito vídeo no YouTube"
+Vídeo solto não dá resultado. O Doma Pro é método com sequência, do chão à sela, com acompanhamento. Você não fica sozinho tentando juntar peças.
 
 ### "E se não funcionar pra mim?"
 Você pode cancelar a qualquer momento. Se não curtir, cancela e mantém o acesso até o fim do mês pago. Sem burocracia.
@@ -277,25 +277,25 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 "Formação contínua em doma, baseada na prática real do dia a dia."
 
 **Subheadline:**
-"Grupo fechado no WhatsApp com André Pedroso. 3 vídeos novos por semana. Lives exclusivas. Trilhas de aprendizado."
+"Grupo fechado no WhatsApp com André Pedroso. 3 vídeos novos por semana. Lives só pra assinantes. Trilhas de aprendizado."
 
 **Vídeo:** André falando direto pra câmera:
-> "Fala primos! Aqui dentro você não está sozinho. Toda semana tem conteúdo novo, eu estou no grupo respondendo, e a gente evolui junto. Vem fazer parte."
+> "Fala primos! Aqui dentro você não está sozinho. Toda semana tem vídeo novo, eu estou no grupo respondendo, e a gente evolui junto. Vem fazer parte."
 
-**Visual:** Preview da plataforma com thumbnails de vídeos + contador "X vídeos disponíveis"
+**Visual:** Preview da área do assinante com thumbnails de vídeos + contador "X vídeos disponíveis"
 
 **CTA primário:** "QUERO ENTRAR NO DOMA PRO"
 **Microcopy abaixo:** "Acesso imediato. Cancele quando quiser."
 
 ---
 
-### 2. Seção "O Problema" - Gerar identificação
+### 2. Seção "O Desafio" - Gerar identificação
 
 **Headline:** "Você já sentiu isso?"
 
 - Assiste vídeo no YouTube, mas fica perdido sem saber o próximo passo
 - Tenta aplicar técnica, dá errado, não tem quem perguntar
-- Compra conteúdo, assiste uma vez, esquece na gaveta
+- Compra curso, assiste uma vez, esquece na gaveta
 - Seu cavalo não responde e você não sabe onde está errando
 
 **Fechamento:** "Se você se identificou, o Doma Pro foi feito pra você."
@@ -308,18 +308,18 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 
 **Três pilares visuais (cards):**
 
-| 🎬 Conteúdo Novo Toda Semana | 👥 Comunidade Exclusiva | 📱 André no Seu Bolso |
+| 🎬 Vídeos Novos Toda Semana | 👥 Comunidade Fechada | 📱 André no Seu Bolso |
 |------------------------------|-------------------------|----------------------|
 | 3 vídeos por semana | Grupo fechado no WhatsApp | Respostas no grupo |
-| Pílulas práticas | Troca com outros domadores | Lives exclusivas |
+| Pílulas práticas | Troca com outros domadores | Lives só pra assinantes |
 | Casos reais | Networking do cavalo | Acompanha sua evolução |
 | **Nunca para de aprender** | **Nunca está sozinho** | **Sempre tem suporte** |
 
-**Fechamento:** "Enquanto você for assinante, o conteúdo nunca para e o suporte nunca some."
+**Fechamento:** "Enquanto você for assinante, os vídeos nunca param e o suporte nunca some."
 
 ---
 
-### 4. Seção "Conteúdo" - Mostrar volume
+### 4. Seção "Vídeos" - Mostrar volume
 
 **Headline:** "3 vídeos novos. Toda semana. Sem parar."
 
@@ -338,7 +338,7 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 |---------|----------|
 | Vídeo solto, sem sequência | Método organizado |
 | Comentário ignorado | Dúvida respondida |
-| Conteúdo parado | Novidade toda semana |
+| Material parado | Novidade toda semana |
 | Sozinho | Comunidade |
 
 ---
@@ -351,7 +351,7 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 - Domadores de todo o Brasil
 - Troca de experiência real
 - Networking do mundo do cavalo
-- Lives exclusivas com o André
+- Lives só pra assinantes com o André
 
 **Visual:** Prints reais do grupo (com permissão) + fotos de membros
 
@@ -366,7 +366,7 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 - Responde no grupo do WhatsApp
 - Aparece nas lives
 - Acompanha sua evolução
-- Não é guru distante. É parceiro de jornada.
+- Não é guru distante. É parceiro de caminho.
 
 **Visual:** Foto do André Pedroso + prints de interações reais no grupo
 
@@ -420,7 +420,7 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 **Lista visual (checkmarks grandes):**
 - ✅ Grupo fechado no WhatsApp com André Pedroso
 - ✅ 3 vídeos novos por semana (144/ano)
-- ✅ Lives exclusivas com André Pedroso
+- ✅ Lives só pra assinantes com André Pedroso
 - ✅ Trilhas de aprendizado (Dessensibilização, Trabalho de Chão, Primeira Sela, Nuca, Paleta...)
 - ✅ Certificado de conclusão
 
@@ -441,7 +441,7 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 # R$ 49/mês
 > "Para os alunos, esse preço especial até o dia [DATA]"
 
-**Microcopy:** "Você já é da família. Continua evoluindo com condição exclusiva."
+**Microcopy:** "Você já é da família. Continua evoluindo com condição especial."
 
 **Cancelamento (selo visual):**
 🔓 **Cancele quando quiser**
@@ -457,9 +457,9 @@ O assinante pode cancelar quando quiser, mantendo acesso até o final do ciclo v
 ### 10. FAQ - Quebrar objeções finais
 
 **"É aula avulsa ou assinatura?"**
-Assinatura mensal. Você paga R$ 69/mês (ou R$ 49 se já for aluno do André Pedroso) e tem acesso a tudo: grupo no WhatsApp com André Pedroso + conteúdo novo toda semana + trilhas de aprendizado. Cancela quando quiser.
+Assinatura mensal. Você investe R$ 69/mês (ou R$ 49 se já for aluno do André Pedroso) e tem acesso a tudo: grupo no WhatsApp com André Pedroso + vídeos novos toda semana + trilhas de aprendizado. Cancela quando quiser.
 
-**"Tem conteúdo novo mesmo?"**
+**"Tem vídeo novo mesmo?"**
 Sim. 3 vídeos por semana, toda semana, enquanto você for assinante.
 
 **"Consigo falar com o André Pedroso?"**
@@ -468,8 +468,8 @@ Sim. Ele está no grupo do WhatsApp e nas lives. Responde dúvidas, dá feedback
 **"E se eu não gostar?"**
 Você tem 7 dias pra testar. Se não curtir, pede reembolso e devolvemos 100%.
 
-**"Funciona pra cavalo difícil?"**
-O método começa pela base. Cavalo difícil é cavalo que não teve base. A gente constrói junto.
+**"Funciona pra cavalo desafiador?"**
+O método começa pela base. Cavalo desafiador é cavalo que não teve base. A gente constrói junto.
 
 ---
 
@@ -478,15 +478,15 @@ O método começa pela base. Cavalo difícil é cavalo que não teve base. A gen
 **Headline:** "Sua comunidade de doma te espera."
 
 **Texto curto:**
-"Grupo fechado no WhatsApp com André Pedroso. Conteúdo novo toda semana. Lives exclusivas. Trilhas de aprendizado. Tudo isso por R$ 69/mês - ou R$ 49 pra quem já é aluno."
+"Grupo fechado no WhatsApp com André Pedroso. Vídeos novos toda semana. Lives só pra assinantes. Trilhas de aprendizado. Tudo isso por R$ 69/mês - ou R$ 49 pra quem já é aluno."
 
 **CTA final:**
 # [ENTRAR AGORA]
 
-**Elementos de urgência (se aplicável):**
-- "Vagas limitadas para manter a qualidade da comunidade"
-- "Preço de lançamento por tempo limitado"
-- Contador regressivo (se for lançamento)
+**Elementos de escassez (só se for verdade):**
+- Se houver limite real de vagas, mencionar
+- "Preço de lançamento por tempo limitado" (só se o preço for subir de verdade)
+- Contador regressivo (só em lançamentos reais)
 
 ---
 
@@ -510,11 +510,11 @@ O método começa pela base. Cavalo difícil é cavalo que não teve base. A gen
 | Coletar depoimentos | Alunos atuais do André |
 | Configurar checkout | R$ 69/mês (padrão) e R$ 49/mês (alunos), garantia 7 dias |
 
-### Fase 3: Conteúdo Recorrente
+### Fase 3: Vídeos Recorrentes
 
 | Tarefa | Descrição |
 |--------|-----------|
-| Criar calendário de conteúdo | 3 vídeos/semana - definir temas do primeiro mês |
+| Criar calendário de vídeos | 3 vídeos/semana - definir temas do primeiro mês |
 | Gravar estoque inicial | Pelo menos 2-4 semanas adiantadas |
 | Definir dia das lives | Frequência e horário fixo |
 
@@ -534,16 +534,16 @@ O método começa pela base. Cavalo difícil é cavalo que não teve base. A gen
 | Item | Detalhe |
 |------|---------|
 | **Produto** | Doma Pro - Sua Assinatura de Doma |
-| **Conceito** | Assinatura mensal com grupo WhatsApp + conteúdo novo + acesso ao André Pedroso |
+| **Conceito** | Assinatura mensal com grupo WhatsApp + vídeos novos + acesso ao André Pedroso |
 | **Preço padrão** | R$ 69/mês |
 | **Preço alunos** | R$ 49/mês (alunos André Pedroso - por tempo limitado) |
 | **Checkout** | Eduzz |
 | **Área de membros** | Astron Members |
-| **Principal** | Grupo WhatsApp com André Pedroso + 3 vídeos/semana + lives exclusivas |
+| **Principal** | Grupo WhatsApp com André Pedroso + 3 vídeos/semana + lives só pra assinantes |
 | **Incluído** | Trilhas de aprendizado (Dessensibilização, Trabalho de Chão, Primeira Sela, Nuca, Paleta...) + certificado |
 | **Cancelamento** | A qualquer momento, acesso até o fim do ciclo |
 | **Meta inicial** | ~1.200 assinantes a R$ 69/mês = R$ 1M/ano |
-| **Posição na esteira** | Produto de entrada - porta para upsells futuros |
+| **Posição na esteira** | Produto de entrada - porta para próximos produtos |
 
 ---
 
