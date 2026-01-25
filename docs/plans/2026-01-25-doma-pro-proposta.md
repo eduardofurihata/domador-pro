@@ -7,7 +7,16 @@
 ## 1. O Que É o Doma Pro
 
 ### Definição
-**Doma Pro** é o clube de assinatura anual do André - a "Netflix do domador" - onde o assinante tem acesso ao conhecimento completo sobre doma de cavalos: do trabalho de chão à sela e rédea, com conteúdo novo toda semana e contato direto com o André.
+**Doma Pro** é a assinatura de quem leva doma a sério.
+
+Conteúdo novo toda semana. Comunidade exclusiva. Acesso direto ao André.
+E um curso completo de bônus pra você começar com tudo.
+
+**O membro recebe:**
+- 🎬 **3 vídeos novos por semana** - conteúdo que nunca para
+- 👥 **Comunidade fechada** - domadores que vivem isso igual você
+- 📱 **André no seu bolso** - grupo + lives + respostas
+- 🎁 **Curso completo incluído** - Domador de Sucesso (29 aulas)
 
 ### Posicionamento
 - **Não é só curso** - é acompanhamento contínuo
@@ -45,8 +54,32 @@ O Doma Pro é a **porta de entrada** do ecossistema. Estrutura futura:
 
 ## 2. O Que Está Incluído
 
-### Acesso Imediato
-**Curso Domador de Sucesso completo** (29 aulas):
+> **Ordem de prioridade:** Conteúdo novo → Comunidade → Acesso ao André → Curso (bônus)
+
+### 🎬 Conteúdo Novo Toda Semana (principal)
+**3 vídeos por semana** (12/mês, 144/ano):
+- Pílulas práticas de doma - curtas e objetivas
+- Respostas a dúvidas dos membros
+- Casos reais, correções, técnicas específicas
+- **"Enquanto você for assinante, o conteúdo nunca para"**
+
+### 👥 Comunidade Exclusiva
+**Grupo fechado no WhatsApp:**
+- Comunidade de domadores
+- Troca de experiências entre membros
+- Networking do mundo do cavalo
+- **"Você não está sozinho"**
+
+### 📱 Acesso Direto ao André
+**Lives exclusivas + presença no grupo:**
+- Plantões de dúvidas sobre doma
+- Demonstrações ao vivo
+- Convidados especiais (ferradores, veterinários, treinadores)
+- Respostas às dúvidas dos membros
+- **"O André no seu bolso"**
+
+### 🎁 Bônus: Curso Completo Incluído
+**Curso Domador de Sucesso (29 aulas):**
 
 | Módulo | Conteúdo |
 |--------|----------|
@@ -61,31 +94,12 @@ O Doma Pro é a **porta de entrada** do ecossistema. Estrutura futura:
 | Verificação | Exercício Xeque Mate |
 | Extras | Noções de muares, noções gerais |
 
-### Conteúdo Novo Semanal
-**3 vídeos por semana** (12/mês, 144/ano):
-- Pílulas práticas de doma - curtas e objetivas
-- Respostas a dúvidas dos membros
-- Casos reais, correções, técnicas específicas
+**"É o ponto de partida. Depois, conteúdo novo toda semana."**
 
-### Grupo Fechado no WhatsApp
-- Comunidade de domadores
-- Acesso direto ao André
-- Troca entre membros
-
-### Lives Exclusivas
-- Plantões de dúvidas sobre doma
-- Demonstrações ao vivo
-- Convidados especiais
-
-### Certificado de Conclusão
-Ao completar todo o curso, o membro recebe o **Certificado de Domador pelo Método André**.
-
-**Requisito:** Completar todas as etapas do curso Domador de Sucesso
-
-**Benefícios do certificado:**
-- Prova social ("Sou Domador Certificado pelo Método André")
-- Diferencial no mercado de trabalho para domadores profissionais
-- Reconhecimento da dedicação e aprendizado
+### 📜 Certificado de Conclusão
+Ao completar o curso, o membro recebe o **Certificado de Domador pelo Método André**.
+- Prova social para o mercado
+- Diferencial profissional
 
 ---
 
@@ -138,18 +152,18 @@ Doma sem método vira afobação: cavalo tenso, resistência, acidentes e frustr
 
 | O que o assinante recebe | Valor se comprasse separado |
 |--------------------------|----------------------------|
-| Curso Domador de Sucesso completo (29 aulas) | R$ 497 |
 | 144 vídeos novos por ano (3/semana) | R$ 997 |
-| Acesso ao grupo fechado com o André | R$ 497 |
-| Lives exclusivas e plantões de dúvidas | R$ 297 |
-| Certificado de Conclusão | R$ 197 |
-| **Valor total** | **R$ 2.485** |
+| Comunidade exclusiva no WhatsApp | R$ 497 |
+| Lives exclusivas e acesso ao André | R$ 497 |
+| **Bônus:** Curso Domador de Sucesso (29 aulas) | R$ 497 |
+| **Bônus:** Certificado de Conclusão | R$ 197 |
+| **Valor total** | **R$ 2.685** |
 
 ### Preço Doma Pro
 
 | | |
 |--|--|
-| ~~De R$ 2.485~~ | Ancoragem |
+| ~~De R$ 2.685~~ | Ancoragem |
 | **Por R$ 597/ano** | Preço real |
 | **12x de R$ 49,75** | Parcelado |
 | **R$ 1,64/dia** | Menos que um café |
@@ -191,58 +205,213 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 
 ## 6. Estrutura da Página de Vendas
 
-### 1. Hero (topo)
-- **Headline:** "Domine cada etapa da doma com método, do chão à sela"
-- **Subheadline:** "Acesso ao curso completo + 3 vídeos novos por semana + grupo fechado com o André"
-- **Vídeo:** André falando direto ("Fala primos...")
-- **CTA:** "Quero entrar no Doma Pro"
+> **Conceito:** Assinatura com conteúdo novo toda semana + comunidade exclusiva. O curso é bônus. Foco em pertencimento, evolução contínua e acesso ao expert.
 
-### 2. Seção "Pra quem é"
-- Domador iniciante que quer método
-- Cavaleiro que precisa domar o próprio cavalo
-- Treinador que quer padronizar fundamentos
-- Cards visuais com ícones
+---
 
-### 3. Seção "O Problema"
-- Doma sem método = afobação, cavalo tenso, acidentes
-- "Você assiste vídeo solto, pula etapa, e o cavalo não responde"
-- Tom: empatia, sem julgamento
+### 1. HERO (topo) - Impacto imediato
 
-### 4. Seção "O Método"
-- Timeline visual das etapas:
-  **Sinais → Dessensibilização → Chão → Sela → Rédea → Corpo organizado**
-- Mostrar que é progressão, não salto
+**Headline principal (opções de teste A/B):**
+- "Conteúdo novo de doma toda semana. Direto com o André."
+- "Sua assinatura de doma: aprenda, evolua, nunca pare."
+- "Doma Pro: conteúdo novo toda semana + comunidade exclusiva"
 
-### 5. Seção "O que você recebe"
-- Curso completo (29 aulas)
-- 3 vídeos novos por semana
+**Subheadline:**
+"3 vídeos novos por semana. Grupo fechado com o André. Lives exclusivas. E um curso completo de bônus."
+
+**Vídeo:** André falando direto pra câmera:
+> "Fala primos! Aqui dentro você não está sozinho. Toda semana tem conteúdo novo, eu estou no grupo respondendo, e a gente evolui junto. Vem fazer parte."
+
+**Visual:** Preview da plataforma com thumbnails de vídeos + contador "X vídeos disponíveis"
+
+**CTA primário:** "QUERO ENTRAR NO DOMA PRO"
+**Microcopy abaixo:** "Acesso imediato. Cancele quando quiser."
+
+---
+
+### 2. Seção "O Problema" - Gerar identificação
+
+**Headline:** "Você já sentiu isso?"
+
+- Assiste vídeo no YouTube, mas fica perdido sem saber o próximo passo
+- Tenta aplicar técnica, dá errado, não tem quem perguntar
+- Compra curso, assiste uma vez, esquece na gaveta
+- Seu cavalo não responde e você não sabe onde está errando
+
+**Fechamento:** "Se você se identificou, o Doma Pro foi feito pra você."
+
+---
+
+### 3. Seção "A Solução" - O que é o Doma Pro
+
+**Headline:** "Doma Pro: sua assinatura de doma"
+
+**Três pilares visuais (cards):**
+
+| 🎬 Conteúdo Novo Toda Semana | 👥 Comunidade Exclusiva | 📱 André no Seu Bolso |
+|------------------------------|-------------------------|----------------------|
+| 3 vídeos por semana | Grupo fechado no WhatsApp | Respostas no grupo |
+| Pílulas práticas | Troca com outros domadores | Lives exclusivas |
+| Casos reais | Networking do cavalo | Acompanha sua evolução |
+| **Nunca para de aprender** | **Nunca está sozinho** | **Sempre tem suporte** |
+
+**Fechamento:** "Enquanto você for assinante, o conteúdo nunca para e o suporte nunca some."
+
+---
+
+### 4. Seção "Conteúdo" - Mostrar volume
+
+**Headline:** "3 vídeos novos. Toda semana. Sem parar."
+
+- 12 vídeos por mês
+- 144 vídeos por ano
+- Pílulas curtas e práticas
+- Casos reais do dia a dia
+- Técnicas específicas
+- Respostas às dúvidas dos membros
+
+**Visual:** Calendário mostrando vídeos chegando + thumbnails de exemplo
+
+**Comparação (lado a lado):**
+
+| YouTube | Doma Pro |
+|---------|----------|
+| Vídeo solto, sem sequência | Método organizado |
+| Comentário ignorado | Dúvida respondida |
+| Conteúdo parado | Novidade toda semana |
+| Sozinho | Comunidade |
+
+---
+
+### 5. Seção "Comunidade" - Pertencimento
+
+**Headline:** "Você não está sozinho. Tem uma comunidade te esperando."
+
 - Grupo fechado no WhatsApp
-- Lives exclusivas
+- Domadores de todo o Brasil
+- Troca de experiência real
+- Networking do mundo do cavalo
+- Lives exclusivas com o André
+
+**Visual:** Prints reais do grupo (com permissão) + fotos de membros
+
+**Depoimento rápido:** "Entrei achando que era só curso. Descobri uma família de gente que vive cavalo igual eu." - [Nome do membro]
+
+---
+
+### 6. Seção "André" - Autoridade + proximidade
+
+**Headline:** "Acesso direto ao André. Sem intermediário."
+
+- Responde no grupo
+- Aparece nas lives
+- Acompanha sua evolução
+- Não é guru distante. É parceiro de jornada.
+
+**Visual:** Foto do André + prints de interações reais no grupo
+
+**Quote do André:**
+> "Eu não estou aqui pra vender curso e sumir. Estou aqui pra construir domador. Toda semana eu apareço, respondo, mostro. A gente evolui junto."
+
+---
+
+### 7. Seção "Bônus" - Curso como presente
+
+**Headline:** "E de bônus, você já começa com um curso completo."
+
+**Destaque visual:** 🎁 BÔNUS INCLUÍDO
+
+**Curso Domador de Sucesso (29 aulas):**
+- Do chão à sela
+- Dessensibilização completa
+- Primeira montada
+- Controle corporal
 - Certificado de conclusão
-- Cards com ícones + descrição curta
 
-### 6. Seção "Quem é o André"
-- Foto/vídeo
-- Credenciais e história
-- Tom: próximo, "fala primos"
+**Fechamento:** "O curso é seu ponto de partida. Depois, conteúdo novo toda semana."
 
-### 7. Seção "Depoimentos"
-- Vídeos ou prints de alunos
-- Resultados reais
+---
 
-### 8. Seção "Oferta"
-- Ancoragem (~~R$ 2.585~~)
-- Preço real: R$ 597/ano ou 12x R$ 49,75
-- Garantia 7 dias
-- CTA forte
+### 8. Seção "Depoimentos" - Prova social
 
-### 9. FAQ
-- Objeções transformadas em perguntas
-- Respostas curtas e diretas
+**Headline:** "O que os membros falam"
 
-### 10. CTA Final
-- Repetir oferta
-- Urgência (se houver): "Vagas limitadas" ou "Preço de lançamento"
+- 3-5 depoimentos em vídeo (ideal)
+- Ou prints de mensagens reais
+- Foco em: comunidade, evolução, acesso ao André
+
+**Formato sugerido:**
+> "[Resultado específico]" - Nome, Cidade
+> "Meu cavalo estava travado. Em 3 semanas de Doma Pro, já estava respondendo à pressão." - João, MG
+
+---
+
+### 9. Seção "Oferta" - Conversão
+
+**Headline:** "Entre agora. Comece hoje."
+
+**Lista visual (checkmarks grandes):**
+- ✅ 3 vídeos novos por semana (144/ano)
+- ✅ Comunidade exclusiva no WhatsApp
+- ✅ Lives com o André
+- ✅ Curso completo incluído (29 aulas)
+- ✅ Certificado de conclusão
+
+**Ancoragem:**
+| Separado | Doma Pro |
+|----------|----------|
+| ~~R$ 2.685~~ | **R$ 597/ano** |
+
+**Preço em destaque:**
+# 12x de R$ 49,75
+**ou R$ 597 à vista**
+
+**Microcopy:** "Menos de R$ 1,65 por dia. Menos que um café."
+
+**Garantia (selo visual):**
+🔒 **7 dias de garantia incondicional**
+Entrou, não gostou, devolvemos 100%. Sem perguntas.
+
+**CTA principal:**
+# [QUERO ENTRAR NO DOMA PRO]
+
+**Microcopy abaixo do botão:** "Acesso imediato após a confirmação do pagamento"
+
+---
+
+### 10. FAQ - Quebrar objeções finais
+
+**"É curso ou assinatura?"**
+Assinatura. Você paga uma vez por ano e tem acesso a tudo: conteúdo novo toda semana + comunidade + curso completo de bônus.
+
+**"Tem conteúdo novo mesmo?"**
+Sim. 3 vídeos por semana, toda semana, enquanto você for assinante.
+
+**"Consigo falar com o André?"**
+Sim. Ele está no grupo e nas lives. Responde dúvidas, dá feedback, acompanha.
+
+**"E se eu não gostar?"**
+Você tem 7 dias pra testar. Se não curtir, pede reembolso e devolvemos 100%.
+
+**"Funciona pra cavalo difícil?"**
+O método começa pela base. Cavalo difícil é cavalo que não teve base. A gente constrói junto.
+
+---
+
+### 11. CTA Final - Urgência + fechamento
+
+**Headline:** "Sua comunidade de doma te espera."
+
+**Texto curto:**
+"Conteúdo novo toda semana. André no seu bolso. Comunidade que entende você. E um curso completo de bônus. Tudo isso por menos de R$ 50 por mês."
+
+**CTA final:**
+# [ENTRAR AGORA]
+
+**Elementos de urgência (se aplicável):**
+- "Vagas limitadas para manter a qualidade da comunidade"
+- "Preço de lançamento por tempo limitado"
+- Contador regressivo (se for lançamento)
 
 ---
 
@@ -289,11 +458,12 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 
 | Item | Detalhe |
 |------|---------|
-| **Produto** | Doma Pro - assinatura anual de doma de cavalos |
+| **Produto** | Doma Pro - Sua Assinatura de Doma |
+| **Conceito** | Assinatura com conteúdo novo + comunidade + acesso ao expert |
 | **Preço** | R$ 597/ano (12x R$ 49,75) |
 | **Plataforma** | Astron Members |
-| **Conteúdo inicial** | Curso Domador de Sucesso (29 aulas) |
-| **Conteúdo recorrente** | 3 vídeos/semana + lives + grupo WhatsApp + certificado |
+| **Principal** | 3 vídeos/semana + comunidade WhatsApp + lives com André |
+| **Bônus** | Curso Domador de Sucesso (29 aulas) + certificado |
 | **Garantia** | 7 dias incondicional |
 | **Meta inicial** | ~1.675 assinantes = R$ 1M/ano |
 | **Posição na esteira** | Produto de entrada - porta para upsells futuros |
