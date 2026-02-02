@@ -36,12 +36,14 @@ Plataforma de streaming por assinatura (modelo “membership”) onde especialis
 
 #### Receita Primária - Assinatura
 ```
-Mensalidade: R$ 47-97/mês
-Plano Anual: R$ 497-997/ano (20-30% desconto vs mensal)
+Mensalidade: R$ 69/mês
+Plano Anual: R$ 597/ano (28% desconto vs mensal)
+Plano Anual Lançamento: R$ 497/ano (40% desconto vs mensal)
 Break-even: ~100-200 assinantes para cobrir custos operacionais
 ```
 
 #### Receitas Secundárias
+- **Cursos de Parceiros**: Comissão 30-40% em cursos de especialistas parceiros
 - **Marketplace Interno**: Comissão 10-30% em produtos/cursos vendidos
 - **Produtos Físicos**: Equipamentos, materiais didáticos
 - **Mentorias/Consultorias**: Agendamento via plataforma
@@ -139,43 +141,45 @@ Receita Mensal Bruta: R$ 77.000
 
 ## 4. Estratégia de Precificação
 
-### 4.1 Planos Recomendados
+### 4.1 Planos e Preços
 
-#### Opção A - Single Tier (Recomendado para MVP)
+#### Preço de Lançamento (Fundadores)
 ```
-Plano Anual Único
-├── R$ 697/ano (R$ 58/mês)
-├── Pagamento à vista ou 12x
-├── 7 dias de garantia
+Plano Anual - LANÇAMENTO
+├── R$ 497/ano (equivale a R$ 41/mês)
+├── Pagamento à vista ou 12x sem juros
+├── 7 dias de garantia incondicional
+├── Acesso completo a todo conteúdo
+└── Preço exclusivo para os primeiros assinantes
+```
+
+#### Preço Regular (Pós-Lançamento)
+```
+Plano Anual
+├── R$ 597/ano (equivale a R$ 50/mês)
+├── Pagamento à vista ou 12x sem juros
+├── 7 dias de garantia incondicional
 └── Acesso completo a todo conteúdo
+
+Plano Mensal
+├── R$ 69/mês
+├── Cobrança recorrente mensal
+├── 7 dias de garantia incondicional
+├── Acesso completo a todo conteúdo
+└── Flexibilidade para cancelar quando quiser
 ```
 
-**Vantagens**:
+**Economia no Plano Anual**:
+- Mensal: R$ 69 × 12 = R$ 828/ano
+- Anual: R$ 597/ano
+- **Economia de R$ 231/ano (28% de desconto)**
+
+**Vantagens do Plano Anual**:
 - Simplicidade de gestão
 - Maior compromisso do cliente
 - Fluxo de caixa concentrado
 - Menor churn
-
-#### Opção B - Dual Tier
-```
-Básico (R$ 47/mês ou R$ 497/ano)
-├── Acesso ao catálogo de vídeos
-├── Comunidade
-└── 1 live/mês (Q&A)
-
-Premium (R$ 79,90/mês ou R$ 797/ano)
-├── Tudo do Básico
-├── Lives recorrentes (semanal/quinzenal) + replay
-├── Trilhas “do zero” e por nível
-├── Acesso antecipado / drops semanais
-├── Downloads offline
-├── Descontos no marketplace
-└── Certificados de conclusão
-```
-
-**Nota de benchmark (aplicação prática, não cópia)**:
-- Testar **preço “psicológico” com centavos** no mensal (ex.: `R$ 79,90`) tende a reduzir resistência sem mexer no posicionamento.
-- “Vagas limitadas” pode ser usado como **escassez operacional real** (capacidade de suporte/lives) em aberturas periódicas.
+- Desconto significativo para o assinante
 
 ### 4.2 Estratégias de Conversão
 
@@ -192,11 +196,11 @@ Premium (R$ 79,90/mês ou R$ 797/ano)
 5. Assinatura Plataforma
 ```
 
-#### Oferta de Lançamento (Primeiros 100)
+#### Oferta de Lançamento (Fundadores)
 ```
-De: R$ 697/ano
-Por: R$ 497/ano (R$ 41/mês)
-+ Bônus: Acesso vitalício ao preço de fundador
+De: R$ 597/ano (preço regular)
+Por: R$ 497/ano (R$ 41/mês) - LANÇAMENTO
++ Bônus: Preço de fundador garantido para sempre
 + Bônus: Curso X (valor R$ 297)
 + Bônus: Comunidade VIP
 ```
@@ -400,6 +404,51 @@ Mês 3+ (Fidelização)
 └── Programa de indicação (desconto)
 ```
 
+### 7.3 Cursos de Parceiros
+
+A plataforma também hospedará cursos de especialistas parceiros, agregando valor e diversificando o catálogo.
+
+#### Modelo de Parceria
+```
+Tipos de Parceiros:
+├── Veterinários especializados em equinos
+├── Especialistas em nutrição equina
+├── Treinadores de modalidades específicas
+├── Ferradores e casqueadores experientes
+└── Outros profissionais do meio equestre
+
+Formato de Comissionamento:
+├── Parceiro recebe: 60-70% do valor do curso
+├── Plataforma retém: 30-40% (hospedagem + audiência)
+└── Modelo win-win: parceiro ganha alcance, plataforma ganha conteúdo
+```
+
+#### Benefícios para o Assinante
+```
+✅ Acesso a múltiplos especialistas em um só lugar
+✅ Conteúdo complementar e diversificado
+✅ Diferentes perspectivas e metodologias
+✅ Formação mais completa no mundo equestre
+```
+
+#### Benefícios para a Plataforma
+```
+✅ Aumento do catálogo sem custo de produção próprio
+✅ Atração de novas audiências (seguidores dos parceiros)
+✅ Maior valor percebido da assinatura
+✅ Diferenciação competitiva
+✅ Redução de churn (mais razões para ficar)
+```
+
+#### Critérios para Seleção de Parceiros
+```
+├── Expertise comprovada na área
+├── Conteúdo complementar (não concorrente direto)
+├── Qualidade de produção mínima aceitável
+├── Alinhamento com valores da plataforma
+└── Audiência própria (desejável, não obrigatório)
+```
+
 ---
 
 ## 8. Métricas de Sucesso (KPIs)
@@ -516,9 +565,9 @@ Se MRR estagnar:
 ## 11. Recomendações Finais
 
 ### ✅ Fazer
-1. **Começar com plano anual único** (R$ 697) - simplifica operação
+1. **Lançar com preço promocional** (R$ 497/ano) - captura fundadores
 2. **Produzir 30 vídeos antes do lançamento** - prova de conceito
-3. **Oferta de fundadores agressiva** (R$ 497) - primeiros 100
+3. **Migrar para preço regular** (R$ 597/ano ou R$ 69/mês) - após lançamento
 4. **Foco em engajamento vs. volume** - qualidade > quantidade
 5. **Implementar upsells desde o início** - maximiza LTV
 6. **Construir comunidade forte** - reduz churn drasticamente
