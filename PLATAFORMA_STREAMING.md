@@ -43,7 +43,7 @@ Break-even: ~100-200 assinantes para cobrir custos operacionais
 ```
 
 #### Receitas Secundárias
-- **Cursos de Parceiros**: Comissão 30-40% em cursos de especialistas parceiros
+- **Cursos de Parceiros**: Comissão 50% em cursos de especialistas parceiros
 - **Marketplace Interno**: Comissão 10-30% em produtos/cursos vendidos
 - **Produtos Físicos**: Equipamentos, materiais didáticos
 - **Mentorias/Consultorias**: Agendamento via plataforma
@@ -361,7 +361,7 @@ Custo de Produção:
 ✅ Mentorias em grupo (12 semanas)
 ✅ Consultoria 1-on-1
 ✅ Eventos presenciais
-✅ Certificação profissional
+✅ Certificação de Domador
 ✅ Acompanhamento personalizado
 ```
 
@@ -418,8 +418,8 @@ Tipos de Parceiros:
 └── Outros profissionais do meio equestre
 
 Formato de Comissionamento:
-├── Parceiro recebe: 60-70% do valor do curso
-├── Plataforma retém: 30-40% (hospedagem + audiência)
+├── Parceiro recebe: 50% do valor do curso
+├── Plataforma retém: 50% (hospedagem + audiência)
 └── Modelo win-win: parceiro ganha alcance, plataforma ganha conteúdo
 ```
 
@@ -429,6 +429,7 @@ Formato de Comissionamento:
 ✅ Conteúdo complementar e diversificado
 ✅ Diferentes perspectivas e metodologias
 ✅ Formação mais completa no mundo equestre
+🔜 Descontos na loja de produtos (futuro)
 ```
 
 #### Benefícios para a Plataforma
