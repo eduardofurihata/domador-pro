@@ -9,9 +9,9 @@
 
 [Fundo: vídeo curto do André no redondel — cavalo cedendo, abaixando a cabeça, respondendo. Momento real de conexão. Poeira, sol, cerca de madeira. Sem narração — só o som do campo.]
 
-### Seu cavalo trava, empaca, resiste — e você não sabe mais o que fazer com ele.
+### Você olha pro cavalo e não sabe mais o que tentar. Ele trava, empaca, resiste — e cada dia fica pior.
 
-O problema não é o cavalo. É não ter um caminho claro do chão à sela — e alguém do lado quando você trava junto.
+O problema não é o cavalo. É não ter um caminho claro do chão à sela — e alguém do lado pra te mostrar onde você está errando.
 
 **Doma Pro é a assinatura do domador André Pedroso: método passo a passo, material novo toda semana e uma comunidade inteira de domadores junto com você.**
 
@@ -30,15 +30,15 @@ O problema não é o cavalo. É não ter um caminho claro do chão à sela — e
 
 Quem trabalha com cavalo sabe: a maioria aprendeu olhando, imitando, na tentativa e erro. Funciona até o dia que não funciona mais.
 
-- **O cavalo trava e você não sabe por quê.** Fica rodando no redondel sem sair do lugar — e cada dia parece que piora. Você insiste no mesmo exercício, mas nada muda.
-
-- **Você pula etapa sem perceber.** Coloca sela cedo demais, exige rédea antes da base. E lá na frente, o cavalo empaca, resiste ou começa a criar vícios que são muito mais difíceis de corrigir.
+- **Você pula etapa sem perceber.** Coloca sela cedo demais, exige rédea antes da base. Lá na frente, o cavalo empaca, cria vícios — e corrigir fica muito mais difícil do que ensinar direito desde o início.
 
 - **Aplica pressão na hora errada.** O cavalo fica defensivo, tenso, mais duro de trabalhar. E você não entende o que fez de errado — porque ninguém te ensinou a ler o animal.
 
+- **Tem medo de machucar o cavalo — ou de se machucar.** Sem saber a hora certa de avançar e a hora de parar, qualquer exercício vira risco. E o medo trava você tanto quanto trava o animal.
+
 - **Não tem com quem tirar dúvida.** Assiste vídeo no YouTube, tenta aplicar, dá errado — e não tem ninguém pra perguntar "onde eu errei?" O vídeo não responde. O comentário fica no vácuo.
 
-- **Cada cavalo parece um desafio novo.** Porque sem método, você não constrói leitura. Sem leitura, o resultado nunca é consistente — depende da sorte.
+- **Sem método, cada cavalo parece uma loteria.** Você não constrói leitura. O resultado nunca é consistente — um dá certo, o próximo dá errado, e você não sabe o que mudou.
 
 [Texto de destaque, estilo quote]
 
@@ -52,7 +52,7 @@ Quem trabalha com cavalo sabe: a maioria aprendeu olhando, imitando, na tentativ
 
 ### O domador que evolui não é o que tem mais tempo de estrada. É o que aprendeu a ler o cavalo.
 
-Pensa no melhor domador que você conhece. Ele não adivinha. Ele lê o animal: sabe quando o cavalo cedeu, quando ainda está resistindo, quando precisa de mais tempo e quando está pronto pro próximo passo.
+Um membro do grupo chegou com um cavalo que ninguém queria trabalhar — travava, jogava a cabeça, não deixava nem encostar a manta. Todo mundo mandou ele desistir. Ele voltou pra dessensibilização, seguiu a sequência do método, pediu orientação no grupo. Em algumas semanas, o cavalo aceitava sela e rédea. Não foi mágica. Foi base feita na ordem certa, com alguém do lado corrigindo.
 
 Isso não vem de talento. Vem de ter aprendido com método — cada etapa na ordem certa, entendendo o porquê antes de exigir o resultado.
 
@@ -60,7 +60,7 @@ E vem de ter tido alguém junto. Porque sozinho, você repete o erro sem percebe
 
 **Foi pra isso que o André Pedroso criou o Doma Pro.**
 
-Não é mais um curso que você compra e assiste sozinho. É um caminho estruturado com o André presente — toda semana, no grupo, nas lives, no seu dia a dia com o cavalo.
+Não é mais um curso que você assina e assiste sozinho. É um caminho estruturado com o André presente — toda semana, no grupo, nas lives, no seu dia a dia com o cavalo.
 
 ---
 
@@ -70,7 +70,7 @@ Não é mais um curso que você compra e assiste sozinho. É um caminho estrutur
 
 ### Quatro pilares. Um método. André Pedroso junto com você.
 
-O Doma Pro é uma **assinatura de formação contínua em doma**. Enquanto você for assinante, o conteúdo nunca para, a comunidade está sempre ativa e o André está sempre presente.
+O Doma Pro é uma **assinatura de formação contínua em doma**. Enquanto você for assinante, o material nunca para, a comunidade está sempre ativa e o André está sempre presente.
 
 ---
 
@@ -78,12 +78,12 @@ O Doma Pro é uma **assinatura de formação contínua em doma**. Enquanto você
 Caminho estruturado com começo, meio e evolução. Dessensibilização, Primeira Sela, Nuca, Paleta, Costela, Garupa e mais. Você não escolhe por onde começar — o método te guia. Cada etapa tem o porquê explicado antes da técnica.
 
 **2. 3 Vídeos Novos por Semana**
-São 12 por mês, 144 por ano. Pílulas práticas: casos reais, correções de erro, técnicas específicas e respostas às dúvidas dos próprios membros. Não é material reciclado. É conteúdo novo, toda semana, feito pra quem está com a mão no cavalo.
+São 12 por mês, 144 por ano. Pílulas práticas: casos reais, correções de erro, técnicas específicas e respostas às dúvidas dos próprios membros. Não é material reciclado. São vídeos novos, toda semana, feitos pra quem está com a mão no cavalo.
 
 **3. Grupo Fechado no WhatsApp com o André**
 Acesso direto ao André Pedroso — não a um assistente, não a um moderador. Ele mesmo. Comunidade de domadores de todo o Brasil: troca de experiência, dúvida respondida no mesmo dia, feedback real. Aqui ninguém fica no vácuo.
 
-**4. Lives Exclusivas pra Assinantes**
+**4. Lives Só pra Assinantes**
 Plantões de dúvidas ao vivo. Demonstrações práticas no curral. Convidados especiais — ferradores, veterinários, treinadores. Você pergunta, o André mostra. É a aula particular que cabe no bolso.
 
 ---
@@ -170,16 +170,16 @@ Essa é a porta de entrada. Todo assinante começa aqui. É a base que separa qu
 ### O que os membros falam
 
 [Depoimento 1 — Foco: resultado prático]
-> "Eu tinha um cavalo que empacava toda vez que eu tentava selar. Achava que era o animal. Depois de seguir a trilha de dessensibilização do Doma Pro, entendi que eu tava pulando etapa. Em 3 semanas, o cavalo já aceitava a sela tranquilo. O método funciona." — **[Nome], [Cidade/Estado]**
+> "Meu cavalo não deixava nem encostar a manta. Eu achava que era o bicho que era ruim. Aí o André falou: 'volta pra dessensibilização, faz na ordem.' Fiz. Levou um tempo, mas hoje o cavalo aceita sela, aceita rédea, aceita tudo. O erro era meu, não dele." — **[Nome], [Cidade/Estado]**
 
 [Depoimento 2 — Foco: comunidade e acesso ao André]
-> "O que mais me surpreendeu foi o André responder de verdade. Mandei um vídeo do meu cavalo no grupo, achando que ia ficar no vácuo. Em 2 horas ele respondeu com um áudio de 3 minutos explicando exatamente o que eu tava fazendo errado. Nunca vi isso em curso nenhum." — **[Nome], [Cidade/Estado]**
+> "Mandei um vídeo do meu cavalo no grupo achando que ia ficar no vácuo. O André respondeu com um áudio explicando exatamente o que eu tava fazendo errado. Nunca vi isso em curso nenhum. Ele tá lá de verdade, todo dia." — **[Nome], [Cidade/Estado]**
 
 [Depoimento 3 — Foco: evolução com o método]
-> "Eu domava há 8 anos na tentativa e erro. Achava que sabia. Quando entrei no Doma Pro, percebi que não tinha sequência nenhuma. Hoje eu sei exatamente o porquê de cada exercício que faço. Meus cavalos saem diferentes." — **[Nome], [Cidade/Estado]**
+> "Eu domava há 8 anos na tentativa e erro. Achava que sabia. Quando entrei no Doma Pro, percebi que não tinha sequência nenhuma. Hoje eu sei o porquê de cada exercício que faço. Meus cavalos saem diferentes — e eu sei explicar o que fiz." — **[Nome], [Cidade/Estado]**
 
 [Depoimento 4 — Foco: valor pelo preço]
-> "Por R$ 69 eu tenho mais conteúdo do que em curso presencial de R$ 2.000. E ainda tem o grupo, as lives, o André respondendo. É surreal o custo-benefício." — **[Nome], [Cidade/Estado]**
+> "Por R$ 69 eu tenho mais material do que em curso presencial de R$ 2.000. E ainda tem o grupo, as lives, o André respondendo. Não tem nada parecido por esse valor." — **[Nome], [Cidade/Estado]**
 
 [Nota para produção: Substituir pelos depoimentos reais dos membros, mantendo o foco de cada slot. Formato ideal: vídeo curto (15-30s) ou print de mensagem real do grupo com autorização. Priorizar depoimentos com antes/depois ou resultado específico.]
 
@@ -193,7 +193,7 @@ Essa é a porta de entrada. Todo assinante começa aqui. É a base que separa qu
 
 - ✅ Grupo fechado no WhatsApp com André Pedroso (ele mesmo, não assistente)
 - ✅ 3 vídeos novos por semana — 144 por ano, enquanto for assinante
-- ✅ Lives exclusivas com André Pedroso e convidados especiais
+- ✅ Lives só pra assinantes com André Pedroso e convidados especiais
 - ✅ Trilhas de aprendizado completas — do chão à sela, passo a passo
 - ✅ Certificação de Domador pelo Método André Pedroso
 - ✅ Cursos bônus de parceiros (veterinários, nutricionistas, ferradores)
@@ -218,7 +218,7 @@ Uma mentoria presencial com um domador custa entre R$ 150 e R$ 300 por sessão. 
 # R$ 69/mês
 **ou R$ 597/ano** (economia de R$ 231 — 28% de desconto)
 
-R$ 2,30 por dia. Menos que um café. Menos que uma dose de vermífugo.
+R$ 2,30 por dia. Menos que uma dose de vermífugo. Menos que meia hora de mentoria presencial.
 
 [Botão CTA] **QUERO ENTRAR NO DOMA PRO**
 
@@ -257,7 +257,7 @@ Sem fidelidade, sem multa. O assinante pode cancelar a qualquer momento, mantend
 Assinatura. Você investe R$ 69/mês (ou R$ 49 se já for aluno) e tem acesso a tudo: grupo no WhatsApp com o André, vídeos novos toda semana, trilhas de aprendizado, lives. Cancela quando quiser, sem multa.
 
 **"Tem vídeo novo mesmo, toda semana?"**
-Sim. 3 vídeos por semana, toda semana, enquanto você for assinante. São 144 vídeos por ano. O conteúdo nunca para — e muitos vídeos nascem das dúvidas dos próprios membros.
+Sim. 3 vídeos por semana, toda semana, enquanto você for assinante. São 144 vídeos por ano. O material nunca para — e muitos vídeos nascem das dúvidas dos próprios membros.
 
 **"Consigo falar com o André Pedroso de verdade?"**
 Sim. Ele está no grupo do WhatsApp todos os dias e nas lives. Responde dúvidas, dá feedback em vídeo que você manda, acompanha sua evolução. Não é guru distante — é parceiro de caminho. Pergunte pra qualquer membro do grupo.
@@ -285,9 +285,11 @@ Sim. Ao completar a Trilha de Fundamentos, você recebe a Certificação de Doma
 
 ### Você não precisa continuar sozinho.
 
-Tem um grupo de domadores de todo o Brasil te esperando. Tem método testado em mais de 2.500 alunos. Tem o André Pedroso respondendo toda semana. E tem material novo a cada poucos dias pra você evoluir no seu ritmo, com o seu cavalo.
+Tem um grupo de domadores de todo o Brasil te esperando. Tem método testado em mais de 2.500 alunos. Tem o André Pedroso respondendo toda semana. E tem vídeos novos a cada poucos dias pra você evoluir no seu ritmo, com o seu cavalo.
 
 Doma é trabalho de formiguinha. E formiguinha não trabalha sozinha.
+
+Enquanto você espera, o cavalo continua criando vícios que vão ser mais difíceis de corrigir depois. Cada semana sem método é uma semana de erro se repetindo.
 
 A próxima vez que seu cavalo travar, você vai saber exatamente o que fazer. E se não souber, vai ter pra quem perguntar.
 
