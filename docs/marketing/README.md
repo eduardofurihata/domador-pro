@@ -5,11 +5,12 @@ Diretório central para todos os materiais de marketing do projeto Doma Pro.
 ## Estrutura
 
 ```
-doc/marketing/
+docs/marketing/
 ├── README.md                    # Este arquivo
 ├── campanhas/                   # Campanhas organizadas por data
 ├── templates/                   # Modelos reutilizáveis
 ├── brand/                       # Identidade e diretrizes da marca
+├── landing-page/                # Variações de copy para landing page
 └── assets/                      # Recursos e referências visuais
 ```
 

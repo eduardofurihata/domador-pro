@@ -1,6 +1,6 @@
 # Briefings por curso
 
-Briefings baseados no conteúdo das aulas em `doc/aulas/**/*.srt`.
+Briefings baseados no conteúdo das aulas em `docs/cursos/**/*.srt`.
 
 ## Casqueamento e Ferrageamento
 

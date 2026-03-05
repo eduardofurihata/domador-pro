@@ -1,8 +1,8 @@
 # Briefings de marketing
 
-- Casqueamento e Ferrageamento: `doc/derivados/marketing/casqueamento_e_ferrageamento.marketing.md`
-- Domador de Sucesso: `doc/derivados/marketing/domador_de_sucesso.marketing.md`
-- Rancho de Sucesso: `doc/derivados/marketing/rancho_de_sucesso.marketing.md`
-- Trato e Manejo: `doc/derivados/marketing/trato_e_manejo.marketing.md`
+- Casqueamento e Ferrageamento: `docs/derivados/marketing-cursos/casqueamento_e_ferrageamento.marketing.md`
+- Domador de Sucesso: `docs/derivados/marketing-cursos/domador_de_sucesso.marketing.md`
+- Rancho de Sucesso: `docs/derivados/marketing-cursos/rancho_de_sucesso.marketing.md`
+- Trato e Manejo: `docs/derivados/marketing-cursos/trato_e_manejo.marketing.md`
 
-Índice geral: `doc/derivados/README.md`
+Índice geral: `docs/derivados/README.md`
