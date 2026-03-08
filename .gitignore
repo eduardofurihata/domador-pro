@@ -1,0 +1,3 @@
+.mcp.json
+.playwright-mcp/
+lighthouse-*.json
