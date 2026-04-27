@@ -2,7 +2,7 @@
 
 > Mensagens prontas para colar no grupo de WhatsApp.
 **Carrinho aberto:** Segunda 06/04 a Quarta 08/04
-**Cupom:** ALUNO → R$ 51,40/mês (depois volta R$ 61,74/mês)
+**Cupom:** VIP → R$ 51,40/mês (depois volta R$ 61,74/mês)
 **Substituir:** [LINK] pelo link de checkout antes de enviar
 > 
 
@@ -30,16 +30,16 @@ Nasceu o *Doma Pro*.
 ✅ Lives só pra assinantes
 ✅ Trilhas de aprendizado do chão à sela
 
-Não é curso gravado que você compra e esquece. Enquanto você for assinante, o material nunca para e eu estou junto com você.
+São *12 meses de acesso* — não é curso gravado que você compra e esquece. O material nunca para e eu estou junto com você o ano inteiro.
 
-E pra quem entrar até *quarta-feira*, tem o cupom *ALUNO* — são *R$ 100 de desconto*. Sai por *R$ 51,40/mês*.
+E pra quem entrar até *quarta-feira*, tem o cupom *VIP* — são *R$ 100 de desconto*. Sai por *R$ 51,40/mês*.
 
 Depois de quarta o cupom sai do ar e volta pro valor normal de R$ 61,74.
 
 Quem quiser entrar, é por aqui:
 👉 https://chk.eduzz.com/VWGN1YPO07
 
-Use o cupom *ALUNO* na hora do pagamento.
+Use o cupom *VIP* na hora do pagamento.
 
 Domador André Pedroso
 ```
@@ -63,10 +63,10 @@ Plantão de dúvida comigo ao vivo. Às vezes trago convidado — ferrador, vete
 *4. Trilhas de aprendizado*
 Começa pelos Fundamentos da Doma: da apresentação até casqueamento e ferrageamento. 14 aulas na sequência certa. No final, certificação pelo Método Domador André Pedroso.
 
-Tudo isso com *R$ 100 de desconto* usando o cupom *ALUNO* — sai por *R$ 51,40/mês*. Dá R$ 1,71 por dia.
+Tudo isso por *1 ano inteiro*, com *R$ 100 de desconto* usando o cupom *VIP* — sai por *R$ 51,40/mês*. Dá R$ 1,71 por dia.
 
 👉 https://chk.eduzz.com/VWGN1YPO07
-Cupom: *ALUNO* (válido até quarta)
+Cupom: *VIP* (válido até quarta)
 ```
 
 ---
@@ -88,7 +88,7 @@ E outra — no YouTube eu não consigo te responder. No grupo do Doma Pro, eu re
 
 Se você trabalha com cavalo e quer fazer isso com segurança e resultado consistente, é isso aqui.
 
-*R$ 51,40/mês com o cupom ALUNO* — só até quarta.
+*R$ 51,40/mês com o cupom VIP* — só até quarta.
 
 👉 https://chk.eduzz.com/VWGN1YPO07
 ```
@@ -110,7 +110,7 @@ O Doma Pro é o jeito que eu achei de estar perto de todo mundo ao mesmo tempo. 
 
 Você nunca mais fica sozinho com seu cavalo.
 
-Se faz sentido pra você, o cupom *ALUNO* tá valendo até quarta — *R$ 51,40/mês*.
+Se faz sentido pra você, o cupom *VIP* tá valendo até quarta — *R$ 51,40/mês*.
 
 👉 https://chk.eduzz.com/VWGN1YPO07
 
@@ -144,7 +144,7 @@ Se seu cavalo faz essas três coisas no trabalho, você tá no caminho certo.
 
 Esse tipo de conteúdo sai toda semana no Doma Pro — só que lá é vídeo, com demonstração, e eu tiro dúvida pessoalmente.
 
-Quem quiser entrar ainda tá dando tempo com o cupom *ALUNO* — *R$ 51,40/mês*. Mas é só até amanhã.
+Quem quiser entrar ainda tá dando tempo com o cupom *VIP* — *R$ 51,40/mês*. Mas é só até amanhã.
 
 👉 https://chk.eduzz.com/VWGN1YPO07
 ```
@@ -156,7 +156,7 @@ Quem quiser entrar ainda tá dando tempo com o cupom *ALUNO* — *R$ 51,40/mês*
 ```
 Primos, passando pra lembrar:
 
-*Amanhã é o último dia* do cupom ALUNO — *R$ 100 de desconto*.
+*Amanhã é o último dia* do cupom VIP — *R$ 100 de desconto*.
 
 Quarta à noite o cupom sai do ar e o valor volta pra R$ 61,74/mês.
 
@@ -165,7 +165,7 @@ Quem entrou ontem e hoje já tá no grupo, já tá recebendo material.
 Se você ficou na dúvida, pensa assim: são *R$ 1,71 por dia*. Menos que uma água no posto.
 
 👉 https://chk.eduzz.com/VWGN1YPO07
-Cupom: *ALUNO*
+Cupom: *VIP*
 
 Domador André Pedroso
 ```
@@ -181,9 +181,9 @@ Domador André Pedroso
 ```
 Bom dia primos 🐴
 
-Hoje é o *último dia* pra entrar no Doma Pro com *R$ 100 de desconto* usando o cupom ALUNO.
+Hoje é o *último dia* pra entrar no Doma Pro com *R$ 100 de desconto* usando o cupom VIP.
 
-Resumo rápido do que você recebe:
+Resumo rápido — *1 ano* de acesso com:
 
 ✅ Grupo fechado comigo no WhatsApp
 ✅ 3 vídeos novos por semana (nunca param)
@@ -196,7 +196,7 @@ Resumo rápido do que você recebe:
 Amanhã volta pra R$ 61,74.
 
 👉 https://chk.eduzz.com/VWGN1YPO07
-Cupom: *ALUNO*
+Cupom: *VIP*
 ```
 
 ---
@@ -214,7 +214,7 @@ Terceiro: você começa a Trilha de Fundamentos. São 14 aulas na sequência cer
 
 Eu passei anos respondendo aluno um por um. O Doma Pro é esse acompanhamento organizado num lugar só.
 
-Hoje é o último dia com o cupom *ALUNO* — *R$ 51,40/mês*.
+Hoje é o último dia com o cupom *VIP* — *R$ 51,40/mês*.
 
 👉 https://chk.eduzz.com/VWGN1YPO07
 ```
@@ -224,13 +224,13 @@ Hoje é o último dia com o cupom *ALUNO* — *R$ 51,40/mês*.
 ### 17h30 — CONTAGEM
 
 ```
-Primos, daqui a umas horas o cupom ALUNO sai do ar. São *R$ 100 de desconto* que não voltam.
+Primos, daqui a umas horas o cupom VIP sai do ar. São *R$ 100 de desconto* que não voltam.
 
 Vou ser direto:
 
 *R$ 51,40/mês* — dá *R$ 1,71 por dia*.
 
-E por isso você recebe:
+E por esse valor você recebe *1 ano* de:
 — Acesso direto a mim no WhatsApp
 — 12 vídeos novos por mês
 — Lives comigo e com convidados
@@ -242,7 +242,7 @@ Amanhã, sem cupom, é R$ 61,74/mês.
 Se faz sentido pra você, é agora.
 
 👉 https://chk.eduzz.com/VWGN1YPO07
-Cupom: *ALUNO*
+Cupom: *VIP*
 ```
 
 ---
@@ -252,7 +252,7 @@ Cupom: *ALUNO*
 ```
 Primos, é a última mensagem que eu mando sobre isso.
 
-O cupom ALUNO sai do ar hoje. Amanhã o Doma Pro continua aberto, mas no valor normal de R$ 61,74/mês.
+O cupom VIP sai do ar hoje. Amanhã o Doma Pro continua aberto, mas no valor normal de R$ 61,74/mês.
 
 Seja um Assinante Oro, e não perca essa oportunidade
 
@@ -263,7 +263,7 @@ O Doma Pro existe pra isso não acontecer mais.
 Se faz sentido pra você, entra. Se não faz, tudo bem. A gente segue junto aqui no grupo do mesmo jeito.
 
 👉 https://chk.eduzz.com/VWGN1YPO07
-Cupom: *ALUNO* (última noite)
+Cupom: *VIP* (última noite)
 
 Valeu demais, primos.
 
@@ -275,9 +275,40 @@ Domador André Pedroso
 ## Observações de Envio
 
 - **Substituir** `[LINK]` pelo link real do checkout (Eduzz) antes de colar
-- **Cupom ALUNO** deve estar ativo no Eduzz com valor R$ 51,40/mês
+- **Cupom VIP** deve estar ativo no Eduzz com valor R$ 51,40/mês
 - **Emojis:** mínimos e naturais, conforme os textos acima
 - **Formatação:** os asteriscos (*) já são a formatação de negrito do WhatsApp
 - **Tom:** todas as mensagens seguem o tom autêntico do André conforme `docs/marketing/brand/tom-de-voz.md`
 - **Palavras proibidas:** nenhuma mensagem usa termos listados em `docs/marketing/brand/palavras-proibidas.md`
 - **Garantia:** mencionada na mensagem de terça à noite (7 dias)
+
+---
+
+## DESCRIÇÃO DO GRUPO WHATSAPP — ASSINANTES DOMA PRO
+
+> Texto para colar na descrição do grupo de assinantes (quem já comprou).
+> Limite WhatsApp: 2048 caracteres. O texto abaixo tem ~750 caracteres.
+
+```
+Doma Pro — Domador André Pedroso
+
+Grupo fechado só pra assinantes. Seu acesso vale por 1 ano a partir da data da compra.
+
+Aqui você tem acesso direto a mim pra tirar dúvida, mandar vídeo do seu cavalo e trocar experiência com domadores de todo o Brasil.
+
+O que rola nesse grupo:
+- Eu respondo dúvidas pessoalmente
+- Troca de experiência entre membros
+- Avisos de vídeos novos e lives
+
+Regras:
+1. Respeito sempre. Aqui todo mundo tá aprendendo.
+2. Pode mandar vídeo e foto dos cavalos — é pra isso que o grupo existe.
+3. Sem spam, sem vendas, sem política.
+4. Dúvida sobre doma, manda aqui. Dúvida sobre pagamento ou acesso, chama o suporte.
+
+Suporte: [EMAIL OU NÚMERO DO SUPORTE]
+Área do assinante: [LINK ASTRON MEMBERS]
+
+Bora trabalhar, primos.
+```
