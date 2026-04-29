@@ -33,25 +33,22 @@ Mais de dois mil e quinhentos alunos formados,
 quinze anos de estrada.
 
 Eu juntei tudo o que sei num lugar só.
-Chama Doma Pro.
+Doma Pro.
 
-É uma assinatura mensal,
-com três coisas que fazem diferença.
+No Doma Pro você tem trilha completa do chão à sela
+— dessensibilização, nuca, paleta, costela, garupa,
+até a cereja do bolo, o checkmate.
 
-A primeira, grupo fechado no WhatsApp,
-eu mesmo respondendo dúvida.
-Não é assistente, é eu.
+Grupo fechado comigo no WhatsApp.
+Três vídeos novos toda semana.
+Certificação pelo método.
 
-A segunda, três vídeos novos toda semana,
-enquanto você for assinante.
+E sete dias de garantia.
+Se não gostar, te devolvo o dinheiro.
 
-A terceira, trilha completa do chão à sela.
-Nuca, paleta, costela, garupa,
-flexionamento de muares e mangalarga.
-
-Quer ver o que tem dentro?
-
-O link tá aqui embaixo.
+Pare de ficar travado com seu cavalo.
+Clica em "Saiba mais" aqui embaixo
+e começa hoje.
 
 Bora trabalhar, primos.
 ```
@@ -63,11 +60,15 @@ Bora trabalhar, primos.
 ```
 Doma é trabalho de formiguinha. Mas formiguinha não trabalha sozinha.
 
-Doma Pro é a assinatura mensal do Domador André Pedroso pra quem trabalha com cavalo e quer parar de aprender sozinho, repetindo erro sem ter pra quem perguntar quando o bicho trava.
+Doma Pro é a assinatura mensal do Domador André Pedroso pra quem trabalha com cavalo e quer parar de aprender sozinho.
+
+Trilha completa do chão à sela: dessensibilização, nuca, paleta, costela, garupa, até a cereja do bolo, o checkmate. Grupo fechado no WhatsApp comigo respondendo dúvida. Três vídeos novos toda semana. Certificação pelo método.
+
+E você ainda tem 7 dias de garantia. Não gostou, te devolvo o dinheiro.
 
 +2.500 alunos formados em 15 anos de doma.
 
-Toca em "Saiba mais" e dá uma olhada na página completa.
+Pare de ficar travado com seu cavalo. Toca em "Saiba mais" e começa hoje.
 
 Bora trabalhar, primos.
 ```
@@ -80,5 +81,7 @@ Bora trabalhar, primos.
 |-------|---------------|
 | 0:03  | DOMA PRO |
 | 0:13  | +2.500 ALUNOS · 15 ANOS DE DOMA |
-| 0:25  | TRILHA · WHATSAPP · 3 VÍDEOS POR SEMANA |
-| 0:40  | TOQUE EM "SAIBA MAIS" |
+| 0:22  | TRILHA: DESSENSIBILIZAÇÃO → CHECKMATE |
+| 0:30  | WHATSAPP · 3 VÍDEOS/SEMANA · CERTIFICADO |
+| 0:38  | 7 DIAS DE GARANTIA |
+| 0:42  | TOQUE EM "SAIBA MAIS" |

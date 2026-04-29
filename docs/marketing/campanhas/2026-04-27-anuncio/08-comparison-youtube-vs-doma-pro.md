@@ -35,16 +35,24 @@ tudo fora de ordem.
 Pula etapa sem perceber
 e lá na frente o cavalo trava.
 
-No Doma Pro tem método.
-Tem trilha do chão à sela.
-E eu junto com você
-corrigindo no caminho.
-
 E tem outra coisa.
 No YouTube eu não consigo te responder.
-No grupo do Doma Pro, eu respondo.
+No Doma Pro, eu respondo.
 
-O link tá aqui embaixo.
+No Doma Pro você tem trilha completa do chão à sela
+— dessensibilização, nuca, paleta, costela, garupa,
+até a cereja do bolo, o checkmate.
+
+Grupo fechado comigo no WhatsApp.
+Três vídeos novos toda semana.
+Certificação pelo método.
+
+E sete dias de garantia.
+Se não gostar, te devolvo o dinheiro.
+
+Pare de ficar travado com seu cavalo.
+Clica em "Saiba mais" aqui embaixo
+e começa hoje.
 
 Bora trabalhar, primos.
 ```

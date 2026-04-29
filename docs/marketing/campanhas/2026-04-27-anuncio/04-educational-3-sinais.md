@@ -38,17 +38,22 @@ Ele relaxou e cedeu.
 Se seu cavalo faz essas três coisas,
 você tá no caminho certo.
 
-Esse tipo de aula
-sai toda semana no Doma Pro.
+Esse tipo de aula sai toda semana no Doma Pro.
 
-Só que lá tem vídeo,
-demonstração no campo,
-e eu respondo dúvida
-no grupo do WhatsApp.
+No Doma Pro você tem trilha completa do chão à sela
+— dessensibilização, nuca, paleta, costela, garupa,
+até a cereja do bolo, o checkmate.
 
-Quer ver o que tem dentro?
+Grupo fechado comigo no WhatsApp.
+Três vídeos novos toda semana.
+Certificação pelo método.
 
-O link tá aqui embaixo.
+E sete dias de garantia.
+Se não gostar, te devolvo o dinheiro.
+
+Pare de ficar travado com seu cavalo.
+Clica em "Saiba mais" aqui embaixo
+e começa hoje.
 
 Bora trabalhar, primos.
 ```

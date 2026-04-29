@@ -20,23 +20,30 @@ Vou te falar uma verdade
 que ninguém te conta sobre doma.
 
 Noventa por cento dos problemas
-que eu vejo no cavalo
+no cavalo
 não é culpa do cavalo.
 
 É do domador que pulou etapa.
-Colocou sela cedo,
-exigiu rédea antes da base,
-pressionou na hora errada.
+Sela cedo, rédea antes da base.
 
-Lá na frente o cavalo trava.
-E o sujeito acha que o bicho é ruim.
+O bicho trava.
+Não é ruim.
+Você é que pulou etapa.
 
-O bicho não é ruim.
-Você que pulou etapa.
+No Doma Pro você tem trilha completa do chão à sela
+— dessensibilização, nuca, paleta, costela, garupa,
+até a cereja do bolo, o checkmate.
 
-Doma Pro é o caminho na ordem certa.
+Grupo fechado comigo no WhatsApp.
+Três vídeos novos toda semana.
+Certificação pelo método.
 
-O link tá aqui embaixo.
+E sete dias de garantia.
+Se não gostar, te devolvo o dinheiro.
+
+Pare de ficar travado com seu cavalo.
+Clica em "Saiba mais" aqui embaixo
+e começa hoje.
 
 Bora trabalhar, primos.
 ```

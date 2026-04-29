@@ -11,33 +11,40 @@
 
 ## 🎤 Teleprompter
 
-> **Como ler:** firme nos "não entra". Em "Agora, olha." muda o tom. Respira, baixa a voz um toque, vira pra parte positiva.
+> **Como ler:** firme nos "não entra". Em "Mas se trabalha com cavalo..." muda o tom. Respira, baixa a voz um toque, vira pra parte positiva.
 
 ```
 Olha primos.
 
 O Doma Pro não é pra todo mundo.
 
-Se você acha que doma é um final de semana
-e tá pronto, não entra.
+Se acha que doma é final de semana,
+não entra.
 
 Se quer cavalo brilhando em um mês,
 também não.
 
 Se não tem paciência de fazer base,
-de fazer trabalho de formiguinha,
 não entra.
 
-Agora, olha.
+Mas se trabalha com cavalo,
+quer aprender com método na ordem certa,
+aí é pra você.
 
-Se trabalha com cavalo,
-quer aprender com método,
-e tem disposição pra fazer
-na ordem certa,
+No Doma Pro você tem trilha completa do chão à sela
+— dessensibilização, nuca, paleta, costela, garupa,
+até a cereja do bolo, o checkmate.
 
-aí o Doma Pro é pra você.
+Grupo fechado comigo no WhatsApp.
+Três vídeos novos toda semana.
+Certificação pelo método.
 
-O link tá aqui embaixo.
+E sete dias de garantia.
+Se não gostar, te devolvo o dinheiro.
+
+Pare de ficar travado com seu cavalo.
+Clica em "Saiba mais" aqui embaixo
+e começa hoje.
 
 Bora trabalhar, primos.
 ```

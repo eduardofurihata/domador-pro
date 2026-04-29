@@ -45,13 +45,22 @@ corrigindo, mostrando caso novo.
 
 Foi por isso que nasceu o Doma Pro.
 
-Grupo fechado comigo no WhatsApp.
-Três vídeos novos por semana.
-Trilha completa do chão à sela.
-
 Você nunca mais fica sozinho com seu cavalo.
 
-O link tá aqui embaixo.
+No Doma Pro você tem trilha completa do chão à sela
+— dessensibilização, nuca, paleta, costela, garupa,
+até a cereja do bolo, o checkmate.
+
+Grupo fechado comigo no WhatsApp.
+Três vídeos novos toda semana.
+Certificação pelo método.
+
+E sete dias de garantia.
+Se não gostar, te devolvo o dinheiro.
+
+Pare de ficar travado com seu cavalo.
+Clica em "Saiba mais" aqui embaixo
+e começa hoje.
 
 Bora trabalhar, primos.
 ```

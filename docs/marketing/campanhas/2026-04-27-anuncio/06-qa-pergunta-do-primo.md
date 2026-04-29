@@ -39,11 +39,23 @@ Terceiro, se ele empaca, não bate.
 Volta um passo,
 faz ele ceder de novo.
 
-No Doma Pro
-eu respondo dúvida assim todo dia,
-no grupo fechado.
+Eu respondo dúvida assim todo dia
+no grupo fechado do Doma Pro.
 
-O link tá aqui embaixo.
+No Doma Pro você tem trilha completa do chão à sela
+— dessensibilização, nuca, paleta, costela, garupa,
+até a cereja do bolo, o checkmate.
+
+Grupo fechado comigo no WhatsApp.
+Três vídeos novos toda semana.
+Certificação pelo método.
+
+E sete dias de garantia.
+Se não gostar, te devolvo o dinheiro.
+
+Pare de ficar travado com seu cavalo.
+Clica em "Saiba mais" aqui embaixo
+e começa hoje.
 
 Bora trabalhar, primos.
 ```

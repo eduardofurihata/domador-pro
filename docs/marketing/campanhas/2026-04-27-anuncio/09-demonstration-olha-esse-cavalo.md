@@ -52,13 +52,22 @@ aula por aula no Doma Pro.
 Cada etapa explicada,
 demonstrada, em sequência.
 
-Trilha completa do chão à sela.
-Grupo fechado comigo no WhatsApp.
-Três vídeos novos por semana.
-
 Mais de dois mil e quinhentos alunos formados.
 
-O link tá aqui embaixo.
+No Doma Pro você tem trilha completa do chão à sela
+— dessensibilização, nuca, paleta, costela, garupa,
+até a cereja do bolo, o checkmate.
+
+Grupo fechado comigo no WhatsApp.
+Três vídeos novos toda semana.
+Certificação pelo método.
+
+E sete dias de garantia.
+Se não gostar, te devolvo o dinheiro.
+
+Pare de ficar travado com seu cavalo.
+Clica em "Saiba mais" aqui embaixo
+e começa hoje.
 
 Bora trabalhar, primos.
 ```
